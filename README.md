@@ -2,58 +2,50 @@
 
 ### Aspiring ASIC Verification Engineer | ECE Student @ SRMIST
 
-I'm a passionate Electronics and Communication Engineering student with a focused goal: to excel in the field of VLSI as an ASIC Verification Engineer. I am building a strong foundation in digital design, hardware description languages, and object-oriented programming to solve complex verification challenges.
+I am a driven Electronics and Communication Engineering student with a clear focus on a career in VLSI and ASIC Verification. I leverage my hands-on experience in Python and AI, along with a certified foundation in Verilog and Digital Logic, to build a unique skill set that bridges the gap between modern software applications and the hardware that powers them.
 
 ---
 
-## 🛠️ Technical Skills
-
-My skill set is built upon a solid foundation of university coursework and hands-on certifications in core areas relevant to the semiconductor industry.
+## 🛠️ Core Technical Skills
 
 ![Verilog](https://img.shields.io/badge/Verilog-1572B6?style=for-the-badge&logo=verilog&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Digital Logic](https://img.shields.io/badge/Digital_Logic-0078D4?style=for-the-badge&logo=coyotiv&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🤖 Software & AI Projects
+## 🚀 Featured Projects
 
-These projects demonstrate my proficiency in Python and my growing interest in Artificial Intelligence—a key domain for modern semiconductor design.
+Here are the projects I have successfully designed and built.
 
-| Project | Description | Skills Demonstrated | Repository |
+| Project | Description | Key Technologies | Repository |
 | :--- | :--- | :--- | :--- |
-| **AI Chatbot - "Nyx"** | A conversational AI built using Google's Gemma 2B model and the Hugging Face Transformers library. | Python, AI/ML, Hugging Face, LLMs | [**Code**](link-to-your-chatbot-repo) |
-| **To-Do List App** | A simple and efficient command-line task manager application built in Python. | Python, Data Structures, File I/O | [**Code**](link-to-your-todo-list-repo) |
-
----
-
-## 🚀 VLSI Learning Roadmap & Future Projects
-
-Now that I have a solid foundation, I am actively applying my knowledge by building a portfolio of hands-on Verilog projects. This is my current learning plan for core VLSI skills.
-
-| Project | Description | Skills to Be Applied | Status |
-| :--- | :--- | :--- | :--- |
-| **8-bit ALU** | A combinational logic project to perform key arithmetic and logical operations. | Verilog, RTL Design | 🎯 **Up Next** |
-| **Traffic Light Controller** | A sequential logic project to implement a Finite State Machine (FSM). | Verilog, RTL Design | ⏳ Planned |
+| **AI Chatbot "Nyx"** | Developed a conversational AI leveraging Google's **Gemma 2B** model via the **Hugging Face** Transformers library to provide intelligent, context-aware responses. | Python, AI/ML, Hugging Face, LLMs | [**View Code**](link-to-your-chatbot-repo) |
+| **To-Do List App** | Designed a command-line task manager in Python to handle user input, manage data persistence through **file I/O**, and maintain a clean, object-oriented structure. | Python, Data Structures, File I/O | [**View Code**](link-to-your-todo-list-repo) |
 
 ---
 
 ## 📜 Certifications & Achievements
 
-#### Technical Certifications
 * **Verilog HDL - Hands On** - *Maven Silicon*
 * **Digital Logic Design: A Complete Guide** - *Udemy*
 * **CS107: C++ Programming** - *Saylor Academy*
 * **Python for Beginners: The Complete Course** - *Udemy*
-
-#### Teamwork & Project-Based Achievements
-* **Embedded Systems Workshop** - Team ARL - *SRMIST*
 * **1st Prize Winner, Reuse and Remodel Product Competition** - *SRMIST*
+* **Embedded Systems Workshop** - Team ARL - *SRMIST*
+* **Understanding Sustainable Development Goals (SDGS)** - *Udemy*
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+<p align="left">
+<a href="https://www.linkedin.com/in/mohammed-zidan-c-16a367324" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammed Zidan C | LinkedIn" /></a>
+<a href="https://wa.me/918590919142" target="_blank"><img align="center" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mohammed Zidan C | WhatsApp"/></a>
+<a href="https://www.instagram.com/notmohammedzidan/" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Mohammed Zidan C | Instagram" /></a>
+<a href="https://www.threads.net/@notmohammedzidan" target="_blank"><img align="center" src="https://img.shields.io/badge/threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white" alt="Mohammed Zidan C | Threads" /></a>
+<a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/" target="_blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Mohammed Zidan C | Facebook" /></a>
+</p>
