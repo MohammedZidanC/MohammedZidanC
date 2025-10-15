@@ -23,8 +23,8 @@ Here are the projects I have successfully designed and built.
 
 | Project | Description | Key Technologies | Repository |
 | :--- | :--- | :--- | :--- |
-| **AI Chatbot "Nyx"** | Developed a conversational AI leveraging Google's **Gemma 2B** model via the **Hugging Face** Transformers library to provide intelligent, context-aware responses. | Python, AI/ML, Hugging Face, LLMs | [**View Code**](link-to-your-chatbot-repo) |
-| **To-Do List App** | Designed a command-line task manager in Python to handle user input, manage data persistence through **file I/O**, and maintain a clean, object-oriented structure. | Python, Data Structures, File I/O | [**View Code**](link-to-your-todo-list-repo) |
+| **AI Chatbot "Nyx"** | Developed a conversational AI leveraging Google's **Gemma 2B** model via the **Hugging Face** Transformers library to provide intelligent, context-aware responses. | Python, AI/ML, Hugging Face, LLMs | [**View Code**](https://github.com/MohammedZidanC/NYX) |
+| **To-Do List App** | Designed a command-line task manager in Python to handle user input, manage data persistence through **file I/O**, and maintain a clean, object-oriented structure. | Python, Data Structures, File I/O | [**View Code**](https://github.com/MohammedZidanC/To-Do-List) |
 
 ---
 
