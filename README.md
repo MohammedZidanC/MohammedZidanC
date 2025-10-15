@@ -10,7 +10,7 @@ I am a driven Electronics and Communication Engineering student with a clear foc
 
 <p align="left">
   <a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf">
-    <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=C0A062" alt="Verilog Badge"/>
+    <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=C0A062" alt="Verilog Badge"/>
   </a>
   <a href="certificates/udemy%20python.jpg">
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C0A062" alt="Python Badge"/>
@@ -19,7 +19,7 @@ I am a driven Electronics and Communication Engineering student with a clear foc
     <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=C0A062" alt="C++ Badge"/>
   </a>
   <a href="certificates/Udemy%20Digital%20Logic%20Design.pdf">
-    <img src="https://img.shields.io/badge/Digital_Logic-000000?style=for-the-badge&logo=coyotiv&logoColor=C0A062" alt="Digital Logic Badge"/>
+    <img src="https://img.shields.io/badge/Digital_Logic-000000?style=for-the-badge&logo=microchip&logoColor=C0A062" alt="Digital Logic Badge"/>
   </a>
   <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=C0A062" alt="Hugging Face Badge"/>
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C0A062" alt="Git Badge"/>
