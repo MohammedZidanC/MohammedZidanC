@@ -6,14 +6,14 @@ I am a driven Electronics and Communication Engineering student with a clear foc
 
 ---
 
-## 🛠️ Core Technical Skills (Click to View Certificate)
+## 🛠️ Core Technical Skills (Clickable Badges Have Certificates)
 
-[![Verilog](https://img.shields.io/badge/Verilog-1572B6?style=for-the-badge&logo=verilog&logoColor=white)](certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](certificates/udemy%20python.jpg)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](certificates/cpp%20saylor.pdf)
-[![Digital Logic](https://img.shields.io/badge/Digital_Logic-0078D4?style=for-the-badge&logo=coyotiv&logoColor=white)](certificates/Udemy%20Digital%20Logic%20Design.pdf)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=C0A062)](certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C0A062)](certificates/udemy%20python.jpg)
+[![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=C0A062)](certificates/cpp%20saylor.pdf)
+[![Digital Logic](https://img.shields.io/badge/Digital_Logic-000000?style=for-the-badge&logo=coyotiv&logoColor=C0A062)](certificates/Udemy%20Digital%20Logic%20Design.pdf)
+<img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=C0A062" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C0A062" alt="Git" />
 
 ---
 
@@ -36,7 +36,6 @@ Here are the projects I have successfully designed and built.
 * **Python for Beginners: The Complete Course** - *Udemy*
 * **1st Prize Winner, Reuse and Remodel Product Competition** - *SRMIST*
 * **Embedded Systems Workshop** - Team ARL - *SRMIST*
-* **Understanding Sustainable Development Goals (SDGS)** - *Udemy*
 
 ---
 
