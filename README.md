@@ -24,11 +24,7 @@ I am currently developing a portfolio of foundational RTL design projects in Ver
 
 | Project | Description | Skills Demonstrated | Status |
 | :--- | :--- | :--- | :--- |
-| **8-bit ALU** | A combinational logic project that performs key arithmetic and logical operations, serving as the core of a processor. | Verilog, RTL Design, Combinational Logic | ⏳ In Progress |
-| **Traffic Light Controller** | A sequential logic project implementing a Finite State Machine (FSM) to manage traffic flow based on state transitions. | Verilog, RTL Design, Sequential Logic | ⏳ In Progress |
-| **FIFO Buffer** | A First-In, First-Out (FIFO) memory buffer that manages read/write pointers and status flags (full/empty). | Verilog, RTL Design, Memory Design | ⏳ In Progress |
 
----
 
 ## 📜 Certifications & Achievements
 
