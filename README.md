@@ -21,6 +21,9 @@ I am a driven Electronics and Communication Engineering student with a clear foc
   <a href="certificates/Udemy%20Digital%20Logic%20Design.pdf">
     <img src="https://img.shields.io/badge/Digital_Logic-000000?style=for-the-badge&logo=microchip&logoColor=C0A062" alt="Digital Logic Badge"/>
   </a>
+  <a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf">
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=C0A062" alt="Artificial Intelligence Badge"/>
+  </a>
   <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=C0A062" alt="Hugging Face Badge"/>
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C0A062" alt="Git Badge"/>
 </p>
@@ -40,6 +43,7 @@ Here are the projects I have successfully designed and built.
 
 ## 📜 Certifications & Achievements
 
+* **Freedom with AI Masterclass** - *Freedom with AI*
 * **Verilog HDL - Hands On** - *Maven Silicon*
 * **Digital Logic Design: A Complete Guide** - *Udemy*
 * **CS107: C++ Programming** - *Saylor Academy*
