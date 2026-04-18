@@ -46,7 +46,7 @@ I am a driven Electronics and Communication Engineering student with a clear foc
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-zidan-c-16a367324" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=C0A062" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mohammed-zidan-c/" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=C0A062" alt="LinkedIn"/></a>
 <a href="https://wa.me/918590919142" target="_blank"><img src="https://img.shields.io/badge/whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=C0A062" alt="WhatsApp"/></a>
 <a href="https://www.instagram.com/notmohammedzidan/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=C0A062" alt="Instagram"/></a>
 <a href="https://www.threads.net/@notmohammedzidan" target="_blank"><img src="https://img.shields.io/badge/threads-000000?style=for-the-badge&logo=threads&logoColor=C0A062" alt="Threads"/></a>
