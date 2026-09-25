@@ -1,13 +1,13 @@
 from __future__ import annotations
 
 import html
+import json
 import os
 import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
-import json
 
 OWNER = os.environ.get("GITHUB_REPO_OWNER", "MohammedZidanC")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
@@ -24,8 +24,8 @@ def github_get(url: str) -> object:
     }
     if TOKEN:
         headers["Authorization"] = f"Bearer {TOKEN}"
-    request = Request(url, headers=headers)
-    with urlopen(request, timeout=30) as response:
+    req = Request(url, headers=headers)
+    with urlopen(req, timeout=30) as response:
         return json.load(response)
 
 
@@ -35,13 +35,17 @@ def format_date(value: str) -> str:
 
 
 def code_tag(value: str) -> str:
-    return f"<code>{html.escape(value)}</code>"
+    return f'<code>{html.escape(value)}</code>'
 
 
 def build_card(repo: dict) -> str:
-    name = html.escape(repo["name"])
+    name = html.escape(repo.get("name", "Latest repository"))
     description = repo.get("description")
-    description_text = html.escape(description.strip()) if description else "No repository description provided."
+    description_text = (
+        html.escape(description.strip())
+        if description
+        else "No repository description has been added yet."
+    )
     language = repo.get("language") or "Repository"
     created = format_date(repo["created_at"])
     url = html.escape(repo["html_url"], quote=True)
@@ -52,7 +56,18 @@ def build_card(repo: dict) -> str:
     if tags:
         meta += f"<br><br>{tags}"
 
-    return f"""<table>\n  <tr>\n    <td align=\"left\" width=\"760\">\n      <strong>LATEST ENGINEERING WORK</strong><br><br>\n      <a href=\"{url}\"><strong>{name}</strong></a><br><br>\n      <sub>{description_text}</sub><br><br>\n      {meta}\n      <br><br>\n      <a href=\"{url}\">VIEW REPOSITORY →</a>\n    </td>\n  </tr>\n</table>"""
+    return f'''<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <sub>LATEST REPOSITORY</sub><br>
+      <h3><a href="{url}">{name}</a></h3>
+      <p>{description_text}</p>
+      {meta}
+      <br><br>
+      <a href="{url}"><strong>VIEW REPOSITORY ↗</strong></a>
+    </td>
+  </tr>
+</table>'''
 
 
 def main() -> int:
@@ -68,7 +83,8 @@ def main() -> int:
         return 1
 
     eligible = [
-        repo for repo in repos
+        repo
+        for repo in repos
         if not repo.get("fork")
         and not repo.get("archived")
         and repo.get("visibility", "public") == "public"
@@ -78,12 +94,21 @@ def main() -> int:
     if eligible:
         content = build_card(eligible[0])
     else:
-        content = """<table>\n  <tr>\n    <td align=\"left\" width=\"760\">\n      <strong>LATEST ENGINEERING WORK</strong><br><br>\n      No public repository is currently available.<br><br>\n      <sub>This panel will populate automatically when a new public repository is created.</sub>\n    </td>\n  </tr>\n</table>"""
+        content = '''<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <sub>LATEST REPOSITORY</sub><br>
+      <h3>No public repository yet</h3>
+      <p>This panel will populate automatically when a new public repository is created.</p>
+    </td>
+  </tr>
+</table>'''
 
     current = README.read_text(encoding="utf-8")
     pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.DOTALL)
     replacement = f"{START}\n{content}\n{END}"
     updated, count = pattern.subn(replacement, current, count=1)
+
     if count != 1:
         print("README markers were not found exactly once.", file=sys.stderr)
         return 1
