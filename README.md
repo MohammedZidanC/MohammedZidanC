@@ -1,27 +1,25 @@
-<!-- ========================= -->
-<!-- MOHAMMED ZIDAN C PROFILE -->
-<!-- README-ONLY BRUTALIST UI -->
-<!-- ========================= -->
 <div align="center">
   <p><sub>ENGINEERING PROFILE · VLSI / RTL / ASIC VERIFICATION</sub></p>
-  <img src="assets/mzc-logo.svg" width="112" alt="MZC logo">
   <h1>MOHAMMED ZIDAN C</h1>
   <p><strong>ASPIRING ASIC VERIFICATION ENGINEER</strong></p>
   <p><sub>ECE · VLSI · SRMIST</sub></p>
 </div>
----
+
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" bgcolor="#11161D"><a href="#01--about"><strong>01 / ABOUT</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#02--current-focus"><strong>02 / CURRENT FOCUS</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#03--featured-engineering-work"><strong>03 / WORK</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#04--technical-toolkit"><strong>04 / TOOLKIT</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#05--credentials"><strong>05 / CREDENTIALS</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#06--contact"><strong>06 / CONTACT</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#about"><strong>01 / ABOUT</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#current-focus"><strong>02 / CURRENT FOCUS</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#work"><strong>03 / WORK</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#toolkit"><strong>04 / TOOLKIT</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#credentials"><strong>05 / CREDENTIALS</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#contact"><strong>06 / CONTACT</strong></a></td>
   </tr>
 </table>
----
+
+<a id="about"></a>
+
 01 / ABOUT
+
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
   <tr>
     <td width="72%" valign="top" bgcolor="#0F141A">
@@ -46,9 +44,13 @@
     </td>
   </tr>
 </table>
+
 <br>
----
+
+<a id="current-focus"></a>
+
 02 / CURRENT FOCUS
+
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
   <tr>
     <td width="18%" bgcolor="#151B23" valign="top">
@@ -64,10 +66,15 @@
     </td>
   </tr>
 </table>
+
 <br>
----
+
+<a id="work"></a>
+
 03 / FEATURED ENGINEERING WORK
+
 <p>Selected repositories across software, systems, AI, and interface engineering. Every panel is a direct repository link.</p>
+
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
   <tr>
     <td width="50%" bgcolor="#0F141A" valign="top">
@@ -98,40 +105,50 @@
       <a href="https://github.com/MohammedZidanC/To-Do-List"><strong>07 · TO-DO-LIST</strong><br><sub>PUBLIC</sub><br><br>Dark themed task-management interface.</a>
     </td>
     <td bgcolor="#0F141A" valign="top">
-      <a href="https://github.com/MohammedZidanC?tab=repositories"><strong>08 · ALL REPOSITORIES</strong><br><sub>GITHUB INDEX</sub><br><br>Open the complete repository collection.</a>
+      <a href="https://github.com/MohammedZidanC?tab=repositories"><strong><img src="https://cdn.simpleicons.org/github/2F6BFF" alt="GitHub" height="16" width="16" style="vertical-align:middle"> 08 · ALL REPOSITORIES</strong><br><sub>GITHUB INDEX</sub><br><br>Open the complete repository collection.</a>
     </td>
   </tr>
 </table>
+
 <br>
----
+
+<a id="toolkit"></a>
+
 04 / TECHNICAL TOOLKIT
+
 <h3>HARDWARE / DIGITAL / VERIFICATION</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="25%" bgcolor="#0F141A"><a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><strong>◇ VERILOG</strong><br><sub>CERTIFIED · MAVEN SILICON</sub></a></td>
-    <td width="25%" bgcolor="#151B23"><a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><strong>▣ DIGITAL LOGIC</strong><br><sub>CERTIFIED · UDEMY</sub></a></td>
-    <td width="25%" bgcolor="#0F141A"><a href="https://github.com/MohammedZidanC?tab=repositories&q=Verilog"><strong>⌘ RTL DESIGN</strong><br><sub>RELATED REPOSITORIES</sub></a></td>
-    <td width="25%" bgcolor="#151B23"><a href="https://github.com/MohammedZidanC?tab=repositories&q=simulation"><strong>◫ SIMULATION</strong><br><sub>RELATED REPOSITORIES</sub></a></td>
+    <td width="25%" bgcolor="#0F141A"><a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><strong><img src="https://api.iconify.design/lucide:cpu.svg?color=%232F6BFF" alt="Verilog" height="16" width="16" style="vertical-align:middle"> VERILOG</strong><br><sub>CERTIFIED · MAVEN SILICON</sub></a></td>
+    <td width="25%" bgcolor="#151B23"><a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><strong><img src="https://api.iconify.design/lucide:blocks.svg?color=%232F6BFF" alt="Digital Logic" height="16" width="16" style="vertical-align:middle"> DIGITAL LOGIC</strong><br><sub>CERTIFIED · UDEMY</sub></a></td>
+    <td width="25%" bgcolor="#0F141A"><a href="https://github.com/MohammedZidanC?tab=repositories&q=Verilog"><strong><img src="https://api.iconify.design/lucide:microchip.svg?color=%232F6BFF" alt="RTL Design" height="16" width="16" style="vertical-align:middle"> RTL DESIGN</strong><br><sub>RELATED REPOSITORIES</sub></a></td>
+    <td width="25%" bgcolor="#151B23"><a href="https://github.com/MohammedZidanC?tab=repositories&q=simulation"><strong><img src="https://api.iconify.design/lucide:activity.svg?color=%232F6BFF" alt="Simulation" height="16" width="16" style="vertical-align:middle"> SIMULATION</strong><br><sub>RELATED REPOSITORIES</sub></a></td>
   </tr>
 </table>
+
 <h3>PROGRAMMING / ENGINEERING TOOLS</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="33%" bgcolor="#0F141A"><a href="certificates/udemy%20python.jpg"><strong>λ PYTHON</strong><br><sub>CERTIFIED · UDEMY</sub></a></td>
-    <td width="33%" bgcolor="#151B23"><a href="certificates/cpp%20saylor.pdf"><strong>⊕ C++</strong><br><sub>CERTIFIED · SAYLOR ACADEMY</sub></a></td>
-    <td width="33%" bgcolor="#0F141A"><a href="https://github.com/MohammedZidanC?tab=repositories"><strong>⌁ GIT</strong><br><sub>ENGINEERING WORKFLOW · REPOSITORIES</sub></a></td>
+    <td width="33%" bgcolor="#0F141A"><a href="certificates/udemy%20python.jpg"><strong><img src="https://cdn.simpleicons.org/python/2F6BFF" alt="Python" height="16" width="16" style="vertical-align:middle"> PYTHON</strong><br><sub>CERTIFIED · UDEMY</sub></a></td>
+    <td width="33%" bgcolor="#151B23"><a href="certificates/cpp%20saylor.pdf"><strong><img src="https://cdn.simpleicons.org/cplusplus/2F6BFF" alt="C++" height="16" width="16" style="vertical-align:middle"> C++</strong><br><sub>CERTIFIED · SAYLOR ACADEMY</sub></a></td>
+    <td width="33%" bgcolor="#0F141A"><a href="https://github.com/MohammedZidanC?tab=repositories"><strong><img src="https://cdn.simpleicons.org/git/2F6BFF" alt="Git" height="16" width="16" style="vertical-align:middle"> GIT</strong><br><sub>ENGINEERING WORKFLOW · REPOSITORIES</sub></a></td>
   </tr>
 </table>
+
 <h3>AI / SUPPORTING TOOLS</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="50%" bgcolor="#151B23"><a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf"><strong>✦ ARTIFICIAL INTELLIGENCE</strong><br><sub>CERTIFIED · FREEDOM WITH AI</sub></a></td>
-    <td width="50%" bgcolor="#0F141A"><a href="https://github.com/MohammedZidanC/NYX"><strong>● HUGGING FACE</strong><br><sub>RELATED PROJECT · NYX</sub></a></td>
+    <td width="50%" bgcolor="#151B23"><a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf"><strong><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%232F6BFF" alt="AI" height="16" width="16" style="vertical-align:middle"> ARTIFICIAL INTELLIGENCE</strong><br><sub>CERTIFIED · FREEDOM WITH AI</sub></a></td>
+    <td width="50%" bgcolor="#0F141A"><a href="https://github.com/MohammedZidanC/NYX"><strong><img src="https://cdn.simpleicons.org/huggingface/2F6BFF" alt="Hugging Face" height="16" width="16" style="vertical-align:middle"> HUGGING FACE</strong><br><sub>RELATED PROJECT · NYX</sub></a></td>
   </tr>
 </table>
+
 <br>
----
+
+<a id="credentials"></a>
+
 05 / CREDENTIALS
+
 <h3>GOOGLE SKILLS BADGES</h3>
 <p>Verified first-party Google Skills links. The badge artwork is intentionally omitted here to keep the README image-free.</p>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
@@ -144,10 +161,11 @@
     </td>
   </tr>
 </table>
+
 <h3>01 / ENGINEERING &amp; TECHNICAL</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="50%" bgcolor="#0F141A"><a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><strong>VERILOG HDL — HANDS ON</strong><br><sub>MAVEN SILICON · VIEW CREDENTIAL ↗</sub></a></td>
+    <td width="50%" bgcolor="#0F141A"><a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><strong>VERILOG HDL · HANDS ON</strong><br><sub>MAVEN SILICON · VIEW CREDENTIAL ↗</sub></a></td>
     <td width="50%" bgcolor="#151B23"><a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><strong>DIGITAL LOGIC DESIGN: A COMPLETE GUIDE</strong><br><sub>UDEMY · VIEW CREDENTIAL ↗</sub></a></td>
   </tr>
   <tr>
@@ -163,6 +181,7 @@
     <td bgcolor="#0F141A"><a href="certificates/POD%20AI%20Developer%20Tools%20and%20Methodologies.pdf"><strong>POD AI DEVELOPER TOOLS &amp; METHODOLOGIES</strong><br><sub>VIEW CREDENTIAL ↗</sub></a></td>
   </tr>
 </table>
+
 <h3>02 / PROFESSIONAL DEVELOPMENT</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -174,6 +193,7 @@
     <td bgcolor="#0F141A"><a href="certificates/british%20airways%20forage.pdf"><strong>BRITISH AIRWAYS FORAGE JOB SIMULATION</strong><br><sub>VIEW CREDENTIAL ↗</sub></a></td>
   </tr>
 </table>
+
 <h3>03 / MEMBERSHIPS &amp; WORKSHOPS</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -181,10 +201,11 @@
     <td width="50%" bgcolor="#151B23"><a href="certificates/Embedded%20system%20Team%20ARL.jpg"><strong>EMBEDDED SYSTEMS WORKSHOP</strong><br><sub>TEAM ARL / SRMIST · VIEW CREDENTIAL ↗</sub></a></td>
   </tr>
 </table>
+
 <h3>04 / ACHIEVEMENTS &amp; ACTIVITIES</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="50%" bgcolor="#151B23"><a href="certificates/Reuse%20and%20Remodel%20Product.jpg"><strong>1ST PRIZE — REUSE AND REMODEL PRODUCT COMPETITION</strong><br><sub>SRMIST · VIEW EVIDENCE ↗</sub></a></td>
+    <td width="50%" bgcolor="#151B23"><a href="certificates/Reuse%20and%20Remodel%20Product.jpg"><strong>1ST PRIZE · REUSE AND REMODEL PRODUCT COMPETITION</strong><br><sub>SRMIST · VIEW EVIDENCE ↗</sub></a></td>
     <td width="50%" bgcolor="#0F141A"><a href="certificates/WMO%20Volunteering.jpeg"><strong>WMO VOLUNTEERING</strong><br><sub>VIEW EVIDENCE ↗</sub></a></td>
   </tr>
   <tr>
@@ -192,18 +213,23 @@
     <td bgcolor="#151B23"><sub>MORE CREDENTIALS WILL APPEAR HERE AS THE PROFILE GROWS.</sub></td>
   </tr>
 </table>
+
 <br>
----
+
+<a id="contact"></a>
+
 06 / CONTACT
+
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="20%" align="center" bgcolor="#0F141A"><a href="https://www.linkedin.com/in/mohammed-zidan-c/"><strong>IN</strong><br><sub>LINKEDIN</sub></a></td>
-    <td width="20%" align="center" bgcolor="#151B23"><a href="https://wa.me/918590919142"><strong>WA</strong><br><sub>WHATSAPP</sub></a></td>
-    <td width="20%" align="center" bgcolor="#0F141A"><a href="https://www.instagram.com/notmohammedzidan/"><strong>IG</strong><br><sub>INSTAGRAM</sub></a></td>
-    <td width="20%" align="center" bgcolor="#151B23"><a href="https://www.threads.net/@notmohammedzidan"><strong>TH</strong><br><sub>THREADS</sub></a></td>
-    <td width="20%" align="center" bgcolor="#0F141A"><a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/"><strong>FB</strong><br><sub>FACEBOOK</sub></a></td>
+    <td width="20%" align="center" bgcolor="#0F141A"><a href="https://www.linkedin.com/in/mohammed-zidan-c/"><img src="https://cdn.simpleicons.org/linkedin/2F6BFF" alt="LINKEDIN" height="18" width="18" style="vertical-align:middle"><br><sub>LINKEDIN</sub></a></td>
+    <td width="20%" align="center" bgcolor="#151B23"><a href="https://wa.me/918590919142"><img src="https://cdn.simpleicons.org/whatsapp/2F6BFF" alt="WHATSAPP" height="18" width="18" style="vertical-align:middle"><br><sub>WHATSAPP</sub></a></td>
+    <td width="20%" align="center" bgcolor="#0F141A"><a href="https://www.instagram.com/notmohammedzidan/"><img src="https://cdn.simpleicons.org/instagram/2F6BFF" alt="INSTAGRAM" height="18" width="18" style="vertical-align:middle"><br><sub>INSTAGRAM</sub></a></td>
+    <td width="20%" align="center" bgcolor="#151B23"><a href="https://www.threads.net/@notmohammedzidan"><img src="https://cdn.simpleicons.org/threads/2F6BFF" alt="THREADS" height="18" width="18" style="vertical-align:middle"><br><sub>THREADS</sub></a></td>
+    <td width="20%" align="center" bgcolor="#0F141A"><a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/"><img src="https://cdn.simpleicons.org/facebook/2F6BFF" alt="FACEBOOK" height="18" width="18" style="vertical-align:middle"><br><sub>FACEBOOK</sub></a></td>
   </tr>
 </table>
+
 <br>
----
+
 <p align="center"><sub>VLSI · RTL DESIGN · DIGITAL LOGIC · VERIFICATION · BUILDING WITH INTENT</sub></p>
