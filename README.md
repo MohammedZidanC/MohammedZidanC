@@ -1,244 +1,248 @@
 <div align="center">
-  <img src="./assets/hero-signal.gif" alt="Subtle animated semiconductor signal" width="100%" />
+  <img src="./assets/hero.svg" alt="Mohammed Zidan C — aspiring ASIC verification engineer" width="100%" />
 
-  <h1>Mohammed Zidan C</h1>
+<br><br>
 
-  <p>
-    <strong>ASPIRING ASIC VERIFICATION ENGINEER</strong><br>
-    Electronics & Communication Engineering · VLSI · SRMIST
-  </p>
-
-  <p>
-    <a href="#about">About</a> ·
-    <a href="#current-focus">Current Focus</a> ·
-    <a href="#featured-engineering-work">Projects</a> ·
-    <a href="#technical-toolkit">Skills</a> ·
-    <a href="#credentials">Credentials</a> ·
-    <a href="#contact">Contact</a>
-  </p>
+  <table border="1" bordercolor="#26384E" cellpadding="8" cellspacing="6">
+    <tr>
+      <td bgcolor="#101A2A"><a href="#mz-about"><strong>ABOUT</strong></a></td>
+      <td bgcolor="#101A2A"><a href="#mz-focus"><strong>CURRENT FOCUS</strong></a></td>
+      <td bgcolor="#101A2A"><a href="#mz-projects"><strong>PROJECTS</strong></a></td>
+      <td bgcolor="#101A2A"><a href="#mz-skills"><strong>SKILLS</strong></a></td>
+      <td bgcolor="#101A2A"><a href="#mz-credentials"><strong>CREDENTIALS</strong></a></td>
+      <td bgcolor="#101A2A"><a href="#mz-contact"><strong>CONTACT</strong></a></td>
+    </tr>
+  </table>
 </div>
 
-About
+<a name="mz-about"></a>
 
-I am an Electronics and Communication Engineering student at SRMIST with a focused interest in VLSI, RTL design, and ASIC verification. I am building a strong foundation in Verilog and digital logic, while using Python, AI tools, and software workflows as supporting skills for experimentation and engineering work.
+01 / About
 
-Design. Verify. Learn.
+I am an Electronics and Communication Engineering student at SRMIST with a focused interest in VLSI, RTL design, and ASIC verification. I am building hands-on depth in Verilog and digital logic, while using Python, AI tools, and software workflows as supporting tools for experimentation and engineering work.
 
-<img src="./assets/signal-divider.gif" alt="Animated signal divider" width="100%" />
+<p><strong>Design. Verify. Refine.</strong></p>
 
-Current Focus
+<img src="./assets/section-rule.svg" alt="Section divider" width="100%" />
 
-<div align="center">
+<a name="mz-focus"></a>
 
-<!-- LATEST_REPO:START -->
-<table>
+02 / Current Focus
+
+<table width="100%" border="1" bordercolor="#26384E" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="left" width="760">
-      <strong>LATEST ENGINEERING WORK</strong><br><br>
-      <a href="https://github.com/MohammedZidanC/Health_Advisor"><strong>Health_Advisor</strong></a><br><br>
-      <sub>No repository description provided.</sub><br><br>
-      <code>HTML</code> &nbsp; <code>Created 13 Apr 2026</code>
-      <br><br>
-      <a href="https://github.com/MohammedZidanC/Health_Advisor">VIEW REPOSITORY →</a>
+    <td bgcolor="#111C2D" width="18%" align="center" valign="middle">
+      <strong>LATEST</strong><br>
+      <sub>REPOSITORY</sub>
     </td>
-  </tr>
-</table>
-<!-- LATEST_REPO:END -->
-
-</div>
-
-<img src="./assets/signal-divider.gif" alt="Animated signal divider" width="100%" />
-
-Featured Engineering Work
-
-This section is intentionally kept ready for the projects you are going to add. Each project can later include its own architecture diagram, waveform, testbench evidence, implementation notes, and source link without changing the overall profile design.
-
-<!-- PROJECT CARD TEMPLATE
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Project Name</h3>
-      <sub>Verilog · RTL Design · Simulation</sub>
-      <br><br>
-      One concise sentence describing what was designed and verified.
-      <br><br>
-      <a href="PROJECT_REPOSITORY_URL">View Repository →</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="PROJECT_PREVIEW_URL" alt="Project preview" width="360" />
+    <td bgcolor="#101826" valign="top">
+      <!-- LATEST_REPO:START -->
+      <table width="100%" border="0" cellpadding="14" cellspacing="0">
+        <tr>
+          <td>
+            <sub>LATEST REPOSITORY</sub><br>
+            <h3>Loading latest repository…</h3>
+            <sub>This panel is maintained automatically by GitHub Actions.</sub>
+          </td>
+        </tr>
+      </table>
+      <!-- LATEST_REPO:END -->
     </td>
   </tr>
 </table>
 
--->
+<img src="./assets/section-rule.svg" alt="Section divider" width="100%" />
 
-<img src="./assets/signal-divider.gif" alt="Animated signal divider" width="100%" />
+<a name="mz-projects"></a>
 
-Technical Toolkit
+03 / Featured Engineering Work
+
+<table width="100%" border="1" bordercolor="#26384E" cellpadding="0" cellspacing="8">
+  <tr>
+    <td bgcolor="#101A2A" width="50%" valign="top">
+      <sub>01 / RTL &amp; DIGITAL DESIGN</sub>
+      <h3>Architecture-first work</h3>
+      <p>Dedicated space for Verilog designs, block diagrams, simulation evidence, and implementation notes.</p>
+      <sub>VERILOG · RTL · DIGITAL LOGIC</sub>
+    </td>
+    <td bgcolor="#101A2A" width="50%" valign="top">
+      <sub>02 / VERIFICATION</sub>
+      <h3>Proof through simulation</h3>
+      <p>Dedicated space for testbenches, waveforms, verification results, debugging evidence, and repository links.</p>
+      <sub>TESTBENCH · SIMULATION · DEBUGGING</sub>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#101A2A" valign="top">
+      <sub>03 / SYSTEMS</sub>
+      <h3>Hardware beyond RTL</h3>
+      <p>Space for STM32 and other embedded engineering work that supports the broader hardware portfolio.</p>
+      <sub>STM32 · EMBEDDED · INTERFACING</sub>
+    </td>
+    <td bgcolor="#101A2A" valign="top">
+      <sub>04 / EVIDENCE</sub>
+      <h3>Design artifacts</h3>
+      <p>Projects can be presented with architecture diagrams, waveforms, test results, and source links without changing this layout.</p>
+      <sub>DIAGRAMS · WAVEFORMS · SOURCE</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/section-rule.svg" alt="Section divider" width="100%" />
+
+<a name="mz-skills"></a>
+
+04 / Technical Toolkit
 
 Hardware & Digital Design
 
-<p>
-  <a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf">
-    <img src="https://img.shields.io/badge/Verilog-080D17?style=for-the-badge&logoColor=C0A062" alt="Verilog" />
-  </a>
-  <a href="certificates/Udemy%20Digital%20Logic%20Design.pdf">
-    <img src="https://img.shields.io/badge/Digital_Logic-080D17?style=for-the-badge&logo=semiconductor&logoColor=C0A062" alt="Digital Logic" />
-  </a>
-  <img src="https://img.shields.io/badge/RTL_Design-080D17?style=for-the-badge&logoColor=C0A062" alt="RTL Design" />
-  <img src="https://img.shields.io/badge/Simulation-080D17?style=for-the-badge&logoColor=C0A062" alt="Simulation" />
-</p>
+<table border="1" bordercolor="#26384E" cellpadding="9" cellspacing="6">
+  <tr>
+    <td bgcolor="#101A2A"><a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><strong>◇ VERILOG</strong></a><br><sub>CERTIFICATE</sub></td>
+    <td bgcolor="#101A2A"><a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><strong>⊞ DIGITAL LOGIC</strong></a><br><sub>CERTIFICATE</sub></td>
+    <td bgcolor="#101A2A"><strong>⌁ RTL DESIGN</strong><br><sub>CORE FOCUS</sub></td>
+    <td bgcolor="#101A2A"><strong>◫ SIMULATION</strong><br><sub>CORE FOCUS</sub></td>
+  </tr>
+</table>
 
 Programming & Engineering Tools
 
-<p>
-  <a href="certificates/udemy%20python.jpg">
-    <img src="https://img.shields.io/badge/Python-080D17?style=for-the-badge&logo=python&logoColor=C0A062" alt="Python" />
-  </a>
-  <a href="certificates/cpp%20saylor.pdf">
-    <img src="https://img.shields.io/badge/C%2B%2B-080D17?style=for-the-badge&logo=cplusplus&logoColor=C0A062" alt="C++" />
-  </a>
-  <img src="https://img.shields.io/badge/Git-080D17?style=for-the-badge&logo=git&logoColor=C0A062" alt="Git" />
-</p>
+<table border="1" bordercolor="#26384E" cellpadding="9" cellspacing="6">
+  <tr>
+    <td bgcolor="#101A2A"><a href="certificates/udemy%20python.jpg"><strong>λ PYTHON</strong></a><br><sub>CERTIFICATE</sub></td>
+    <td bgcolor="#101A2A"><a href="certificates/cpp%20saylor.pdf"><strong>⊕ C++</strong></a><br><sub>CERTIFICATE</sub></td>
+    <td bgcolor="#101A2A"><strong>⎇ GIT</strong><br><sub>ENGINEERING TOOL</sub></td>
+  </tr>
+</table>
 
 AI & Supporting Tools
 
-<p>
-  <a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf">
-    <img src="https://img.shields.io/badge/Artificial_Intelligence-080D17?style=for-the-badge&logo=openai&logoColor=C0A062" alt="Artificial Intelligence" />
-  </a>
-  <img src="https://img.shields.io/badge/Hugging_Face-080D17?style=for-the-badge&logo=huggingface&logoColor=C0A062" alt="Hugging Face" />
-</p>
+<table border="1" bordercolor="#26384E" cellpadding="9" cellspacing="6">
+  <tr>
+    <td bgcolor="#101A2A"><a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf"><strong>✦ ARTIFICIAL INTELLIGENCE</strong></a><br><sub>CERTIFICATE</sub></td>
+    <td bgcolor="#101A2A"><strong>◒ HUGGING FACE</strong><br><sub>SUPPORTING TOOL</sub></td>
+  </tr>
+</table>
 
-<img src="./assets/signal-divider.gif" alt="Animated signal divider" width="100%" />
+<img src="./assets/section-rule.svg" alt="Section divider" width="100%" />
 
-Credentials
+<a name="mz-credentials"></a>
+
+05 / Credentials
 
 Google Skills Badges
 
-<p>
-  <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19232480">
-    <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d1d31ada5da1.png" alt="Google Cloud - Introduction to Generative AI completion badge" width="240" />
-  </a>
-  <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19233619">
-    <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f0392406c397.png" alt="Google Cloud - Encoder-Decoder Architecture completion badge" width="240" />
-  </a>
-</p>
+<table border="1" bordercolor="#26384E" cellpadding="10" cellspacing="8">
+  <tr>
+    <td bgcolor="#101A2A" align="center">
+      <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19232480">
+        <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d1d31ada5da1.png" alt="Google Cloud — Introduction to Generative AI completion badge" width="235" />
+      </a>
+      <br>
+      <sub>VERIFIED ON GOOGLE SKILLS</sub>
+    </td>
+    <td bgcolor="#101A2A" align="center">
+      <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19233619">
+        <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f0392406c397.png" alt="Google Cloud — Encoder-Decoder Architecture completion badge" width="235" />
+      </a>
+      <br>
+      <sub>VERIFIED ON GOOGLE SKILLS</sub>
+    </td>
+  </tr>
+</table>
 
-<sub>Click either badge to open the corresponding first-party Google Skills credential page.</sub>
+01 / Engineering & Technical
 
-<details>
-<summary><strong>Engineering & Technical Credentials</strong></summary>
+<table width="100%" border="1" bordercolor="#2A3C52" cellpadding="11" cellspacing="6">
+  <tr>
+    <td bgcolor="#142135" width="50%"><a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><strong>Verilog HDL — Hands On</strong></a><br><sub>MAVEN SILICON · VIEW CREDENTIAL ↗</sub></td>
+    <td bgcolor="#142135" width="50%"><a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><strong>Digital Logic Design: A Complete Guide</strong></a><br><sub>UDEMY · VIEW CREDENTIAL ↗</sub></td>
+  </tr>
+  <tr>
+    <td bgcolor="#142135"><a href="certificates/Udemy%20Signal%20Processing.pdf"><strong>Signal Processing</strong></a><br><sub>UDEMY · VIEW CREDENTIAL ↗</sub></td>
+    <td bgcolor="#142135"><a href="certificates/cpp%20saylor.pdf"><strong>CS107: C++ Programming</strong></a><br><sub>SAYLOR ACADEMY · VIEW CREDENTIAL ↗</sub></td>
+  </tr>
+  <tr>
+    <td bgcolor="#142135"><a href="certificates/udemy%20python.jpg"><strong>Python for Beginners: The Complete Course</strong></a><br><sub>UDEMY · VIEW CREDENTIAL ↗</sub></td>
+    <td bgcolor="#142135"><a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf"><strong>Freedom with AI Masterclass</strong></a><br><sub>FREEDOM WITH AI · VIEW CREDENTIAL ↗</sub></td>
+  </tr>
+  <tr>
+    <td bgcolor="#142135"><a href="certificates/Anthropic%20Claude%20Code%20101.pdf"><strong>Anthropic Claude Code 101</strong></a><br><sub>VIEW CREDENTIAL ↗</sub></td>
+    <td bgcolor="#142135"><a href="certificates/POD%20AI%20Developer%20Tools%20and%20Methodologies.pdf"><strong>POD AI Developer Tools and Methodologies</strong></a><br><sub>VIEW CREDENTIAL ↗</sub></td>
+  </tr>
+</table>
 
-<br>
+02 / Professional Development
 
-<a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf">Verilog HDL — Hands On</a> — Maven Silicon
+<table width="100%" border="1" bordercolor="#2A3C52" cellpadding="11" cellspacing="6">
+  <tr>
+    <td bgcolor="#142135" width="50%"><a href="certificates/Employability%20skills.pdf"><strong>Employability Skills</strong></a><br><sub>VIEW CREDENTIAL ↗</sub></td>
+    <td bgcolor="#142135" width="50%"><a href="certificates/Udemy%20Employability%20skills%20Mastery.pdf"><strong>Employability Skills Mastery</strong></a><br><sub>UDEMY · VIEW CREDENTIAL ↗</sub></td>
+  </tr>
+  <tr>
+    <td bgcolor="#142135"><a href="certificates/Job%20Readiness%20%26%20Professional%20Development%20Program.pdf"><strong>Job Readiness &amp; Professional Development Program</strong></a><br><sub>VIEW CREDENTIAL ↗</sub></td>
+    <td bgcolor="#142135"><a href="certificates/british%20airways%20forage.pdf"><strong>British Airways Forage Job Simulation</strong></a><br><sub>VIEW CREDENTIAL ↗</sub></td>
+  </tr>
+</table>
 
-<a href="certificates/Udemy%20Digital%20Logic%20Design.pdf">Digital Logic Design: A Complete Guide</a> — Udemy
+03 / Memberships & Workshops
 
-<a href="certificates/Udemy%20Signal%20Processing.pdf">Signal Processing</a> — Udemy
+<table width="100%" border="1" bordercolor="#2A3C52" cellpadding="11" cellspacing="6">
+  <tr>
+    <td bgcolor="#142135" width="50%"><a href="certificates/ISTE%20Membership.pdf"><strong>ISTE Membership</strong></a><br><sub>VIEW CREDENTIAL ↗</sub></td>
+    <td bgcolor="#142135" width="50%"><a href="certificates/Embedded%20system%20Team%20ARL.jpg"><strong>Embedded Systems Workshop</strong></a><br><sub>TEAM ARL / SRMIST · VIEW CREDENTIAL ↗</sub></td>
+  </tr>
+</table>
 
-<a href="certificates/cpp%20saylor.pdf">CS107: C++ Programming</a> — Saylor Academy
+04 / Achievements & Activities
 
-<a href="certificates/udemy%20python.jpg">Python for Beginners: The Complete Course</a> — Udemy
+<table width="100%" border="1" bordercolor="#2A3C52" cellpadding="11" cellspacing="6">
+  <tr>
+    <td bgcolor="#142135" width="50%"><a href="certificates/Reuse%20and%20Remodel%20Product.jpg"><strong>1st Prize — Reuse and Remodel Product Competition</strong></a><br><sub>SRMIST · VIEW EVIDENCE ↗</sub></td>
+    <td bgcolor="#142135" width="50%"><a href="certificates/WMO%20Volunteering.jpeg"><strong>WMO Volunteering</strong></a><br><sub>VIEW EVIDENCE ↗</sub></td>
+  </tr>
+  <tr>
+    <td bgcolor="#142135"><a href="certificates/Sustainable%20development.pdf"><strong>Sustainable Development</strong></a><br><sub>VIEW CREDENTIAL ↗</sub></td>
+    <td bgcolor="#142135">&nbsp;</td>
+  </tr>
+</table>
 
-<a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf">Freedom with AI Masterclass</a> — Freedom with AI
+<img src="./assets/section-rule.svg" alt="Section divider" width="100%" />
 
-<a href="certificates/Anthropic%20Claude%20Code%20101.pdf">Anthropic Claude Code 101</a>
+<a name="mz-contact"></a>
 
-<a href="certificates/POD%20AI%20Developer%20Tools%20and%20Methodologies.pdf">POD AI Developer Tools and Methodologies</a>
+06 / Contact
 
-</details>
-
-<details>
-<summary><strong>Professional Development</strong></summary>
-
-<br>
-
-<a href="certificates/Employability%20skills.pdf">Employability Skills</a>
-
-<a href="certificates/Udemy%20Employability%20skills%20Mastery.pdf">Employability Skills Mastery</a> — Udemy
-
-<a href="certificates/Job%20Readiness%20%26%20Professional%20Development%20Program.pdf">Job Readiness & Professional Development Program</a>
-
-<a href="certificates/british%20airways%20forage.pdf">British Airways Forage Job Simulation</a>
-
-</details>
-
-<details>
-<summary><strong>Memberships & Workshops</strong></summary>
-
-<br>
-
-<a href="certificates/ISTE%20Membership.pdf">ISTE Membership</a>
-
-<a href="certificates/Embedded%20system%20Team%20ARL.jpg">Embedded Systems Workshop</a> — Team ARL / SRMIST
-
-</details>
-
-<details>
-<summary><strong>Achievements & Activities</strong></summary>
-
-<br>
-
-<a href="certificates/Reuse%20and%20Remodel%20Product.jpg">1st Prize — Reuse and Remodel Product Competition</a> — SRMIST
-
-<a href="certificates/WMO%20Volunteering.jpeg">WMO Volunteering</a>
-
-<a href="certificates/Sustainable%20development.pdf">Sustainable Development</a>
-
-</details>
-
-<img src="./assets/signal-divider.gif" alt="Animated signal divider" width="100%" />
-
-Engineering Notes
-
-A place for future design notes, verification experiments, waveforms, debugging write-ups, and implementation decisions. As these become available, they can be linked here without changing the rest of the profile structure.
-
-<!-- NOTES TEMPLATE
-
-<details>
-<summary><strong>Note title</strong></summary>
-
-Short context, key observation, result, and repository or document link.
-
-</details>
-
--->
-
-Activity
-
-<div align="center">
-  <a href="https://github.com/MohammedZidanC?tab=overview&from=2026-01-01">
-    <img src="https://github-readme-stats.vercel.app/api?username=MohammedZidanC&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=false&bg_color=080D17&title_color=C0A062&text_color=E7EAF0&icon_color=C0A062&border_color=263247&disable_animations=true" alt="GitHub activity statistics" />
-  </a>
-</div>
-
-<sub>Activity cards are informational only; the source of truth is the GitHub profile and repository history.</sub>
-
-<img src="./assets/signal-divider.gif" alt="Animated signal divider" width="100%" />
-
-Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-zidan-c/">
-    <img src="https://img.shields.io/badge/LinkedIn-080D17?style=for-the-badge&logo=linkedin&logoColor=C0A062" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/918590919142">
-    <img src="https://img.shields.io/badge/WhatsApp-080D17?style=for-the-badge&logo=whatsapp&logoColor=C0A062" alt="WhatsApp" />
-  </a>
-  <a href="https://www.instagram.com/notmohammedzidan/">
-    <img src="https://img.shields.io/badge/Instagram-080D17?style=for-the-badge&logo=instagram&logoColor=C0A062" alt="Instagram" />
-  </a>
-  <a href="https://www.threads.net/@notmohammedzidan">
-    <img src="https://img.shields.io/badge/Threads-080D17?style=for-the-badge&logo=threads&logoColor=C0A062" alt="Threads" />
-  </a>
-  <a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/">
-    <img src="https://img.shields.io/badge/Facebook-080D17?style=for-the-badge&logo=facebook&logoColor=C0A062" alt="Facebook" />
-  </a>
-</p>
+<table border="1" bordercolor="#26384E" cellpadding="10" cellspacing="6">
+  <tr>
+    <td bgcolor="#101A2A">
+      <a href="https://www.linkedin.com/in/mohammed-zidan-c/">
+        <img src="https://cdn.simpleicons.org/linkedin/9CB3C9" alt="LinkedIn" width="16" />&nbsp; <strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td bgcolor="#101A2A">
+      <a href="https://wa.me/918590919142">
+        <img src="https://cdn.simpleicons.org/whatsapp/9CB3C9" alt="WhatsApp" width="16" />&nbsp; <strong>WhatsApp</strong>
+      </a>
+    </td>
+    <td bgcolor="#101A2A">
+      <a href="https://www.instagram.com/notmohammedzidan/">
+        <img src="https://cdn.simpleicons.org/instagram/9CB3C9" alt="Instagram" width="16" />&nbsp; <strong>Instagram</strong>
+      </a>
+    </td>
+    <td bgcolor="#101A2A">
+      <a href="https://www.threads.net/@notmohammedzidan">
+        <img src="https://cdn.simpleicons.org/threads/9CB3C9" alt="Threads" width="16" />&nbsp; <strong>Threads</strong>
+      </a>
+    </td>
+    <td bgcolor="#101A2A">
+      <a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/">
+        <img src="https://cdn.simpleicons.org/facebook/9CB3C9" alt="Facebook" width="16" />&nbsp; <strong>Facebook</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <sub>Built around hardware curiosity, verification discipline, and continuous learning.</sub>
+  <sub>VLSI · RTL DESIGN · VERIFICATION · CONTINUOUS LEARNING</sub>
 </p>
