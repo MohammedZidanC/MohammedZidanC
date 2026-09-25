@@ -37,16 +37,19 @@ I am an Electronics and Communication Engineering student at SRMIST with a focus
     </td>
     <td bgcolor="#101826" valign="top">
       <!-- LATEST_REPO:START -->
-      <table width="100%" border="0" cellpadding="14" cellspacing="0">
-        <tr>
-          <td>
-            <sub>LATEST REPOSITORY</sub><br>
-            <h3>Loading latest repository…</h3>
-            <sub>This panel is maintained automatically by GitHub Actions.</sub>
-          </td>
-        </tr>
-      </table>
-      <!-- LATEST_REPO:END -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <sub>LATEST REPOSITORY</sub><br>
+      <h3><a href="https://github.com/MohammedZidanC/Health_Advisor">Health_Advisor</a></h3>
+      <p>No repository description has been added yet.</p>
+      <code>HTML</code> &nbsp; <code>Created 13 Apr 2026</code>
+      <br><br>
+      <a href="https://github.com/MohammedZidanC/Health_Advisor"><strong>VIEW REPOSITORY ↗</strong></a>
+    </td>
+  </tr>
+</table>
+<!-- LATEST_REPO:END -->
     </td>
   </tr>
 </table>
