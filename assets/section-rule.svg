@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 34" role="img" aria-label="Section divider">
-<rect width="1200" height="34" fill="none"/>
-<line x1="8" y1="17" x2="1192" y2="17" stroke="#203047" stroke-width="1"/>
-<line x1="8" y1="17" x2="535" y2="17" stroke="#78B8F2" stroke-width="1.5" opacity="0.65"/>
-<circle cx="600" cy="17" r="4" fill="#78B8F2" opacity="0.9"/>
-<circle cx="600" cy="17" r="8" fill="none" stroke="#78B8F2" stroke-width="1" opacity="0.2"/>
-</svg>
