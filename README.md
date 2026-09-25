@@ -31,14 +31,15 @@ Current Focus
 <div align="center">
 
 <!-- LATEST_REPO:START -->
-
 <table>
   <tr>
     <td align="left" width="760">
       <strong>LATEST ENGINEERING WORK</strong><br><br>
-      This section is updated automatically from your newest public repository.
+      <a href="https://github.com/MohammedZidanC/Health_Advisor"><strong>Health_Advisor</strong></a><br><br>
+      <sub>No repository description provided.</sub><br><br>
+      <code>HTML</code> &nbsp; <code>Created 13 Apr 2026</code>
       <br><br>
-      <sub>GitHub Actions refresh this panel automatically.</sub>
+      <a href="https://github.com/MohammedZidanC/Health_Advisor">VIEW REPOSITORY →</a>
     </td>
   </tr>
 </table>
