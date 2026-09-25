@@ -24,18 +24,14 @@ def github_get(url: str) -> object:
     }
     if TOKEN:
         headers["Authorization"] = f"Bearer {TOKEN}"
-    req = Request(url, headers=headers)
-    with urlopen(req, timeout=30) as response:
+    request = Request(url, headers=headers)
+    with urlopen(request, timeout=30) as response:
         return json.load(response)
 
 
 def format_date(value: str) -> str:
     parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
     return parsed.astimezone(timezone.utc).strftime("%d %b %Y")
-
-
-def code_tag(value: str) -> str:
-    return f'<code>{html.escape(value)}</code>'
 
 
 def build_card(repo: dict) -> str:
@@ -46,28 +42,19 @@ def build_card(repo: dict) -> str:
         if description
         else "No repository description has been added yet."
     )
-    language = repo.get("language") or "Repository"
-    created = format_date(repo["created_at"])
+    language = html.escape(repo.get("language") or "Repository")
+    created = html.escape(format_date(repo["created_at"]))
     url = html.escape(repo["html_url"], quote=True)
+    topics = [html.escape(str(topic)) for topic in repo.get("topics", [])[:4]]
 
-    topics = [str(topic) for topic in repo.get("topics", [])[:4]]
-    tags = " ".join(code_tag(topic) for topic in topics)
-    meta = f"{code_tag(language)} &nbsp; {code_tag('Created ' + created)}"
-    if tags:
-        meta += f"<br><br>{tags}"
+    topic_line = ""
+    if topics:
+        topic_line = "<br>" + " · ".join(topics)
 
-    return f'''<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <sub>LATEST REPOSITORY</sub><br>
-      <h3><a href="{url}">{name}</a></h3>
-      <p>{description_text}</p>
-      {meta}
-      <br><br>
-      <a href="{url}"><strong>VIEW REPOSITORY ↗</strong></a>
-    </td>
-  </tr>
-</table>'''
+    return f'''<a href="{url}"><strong>{name}</strong><br>
+<sub>{language} · CREATED {created}</sub>{topic_line}<br><br>
+{description_text}<br><br>
+<strong>OPEN REPOSITORY ↗</strong></a>'''
 
 
 def main() -> int:
@@ -94,15 +81,8 @@ def main() -> int:
     if eligible:
         content = build_card(eligible[0])
     else:
-        content = '''<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <sub>LATEST REPOSITORY</sub><br>
-      <h3>No public repository yet</h3>
-      <p>This panel will populate automatically when a new public repository is created.</p>
-    </td>
-  </tr>
-</table>'''
+        content = '''<strong>NO PUBLIC REPOSITORY YET</strong><br>
+<sub>Create a public repository and this panel will populate automatically.</sub>'''
 
     current = README.read_text(encoding="utf-8")
     pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.DOTALL)
