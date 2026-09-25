@@ -1,53 +1,27 @@
 <!-- ========================= -->
-
 <!-- MOHAMMED ZIDAN C PROFILE -->
-
 <!-- README-ONLY BRUTALIST UI -->
-
 <!-- ========================= -->
-
 <div align="center">
-  <svg width="108" height="72" viewBox="0 0 108 72" role="img" aria-label="MZC logo" xmlns="http://www.w3.org/2000/svg">
-    <rect x="2" y="2" width="104" height="68" fill="#0B0F14" stroke="#2F6BFF" stroke-width="4"/>
-    <path d="M15 52V20L30 36L45 20V52" fill="none" stroke="#F4F6F8" stroke-width="5" stroke-linecap="square"/>
-    <path d="M58 21H93L58 51H93" fill="none" stroke="#2F6BFF" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/>
-  </svg>
+  <p><sub>ENGINEERING PROFILE · VLSI / RTL / ASIC VERIFICATION</sub></p>
+  <img src="assets/mzc-logo.svg" width="112" alt="MZC logo">
+  <h1>MOHAMMED ZIDAN C</h1>
+  <p><strong>ASPIRING ASIC VERIFICATION ENGINEER</strong></p>
+  <p><sub>ECE · VLSI · SRMIST</sub></p>
 </div>
-
-<h1 align="center">MOHAMMED ZIDAN C</h1>
-
-<table width="100%" border="1" bordercolor="#2F6BFF" cellpadding="12" cellspacing="0">
-  <tr>
-    <td align="center" bgcolor="#2F6BFF">
-      <h2><font color="#FFFFFF">ASPIRING ASIC VERIFICATION ENGINEER</font></h2>
-      <sub><font color="#EAF0FF">ECE · VLSI · SRMIST</font></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
+---
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" bgcolor="#10151B"><a href="#about"><strong>01 / ABOUT</strong></a></td>
-    <td align="center" bgcolor="#10151B"><a href="#current-focus"><strong>02 / CURRENT FOCUS</strong></a></td>
-    <td align="center" bgcolor="#10151B"><a href="#featured-work"><strong>03 / WORK</strong></a></td>
-    <td align="center" bgcolor="#10151B"><a href="#toolkit"><strong>04 / TOOLKIT</strong></a></td>
-    <td align="center" bgcolor="#10151B"><a href="#credentials"><strong>05 / CREDENTIALS</strong></a></td>
-    <td align="center" bgcolor="#10151B"><a href="#contact"><strong>06 / CONTACT</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#01--about"><strong>01 / ABOUT</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#02--current-focus"><strong>02 / CURRENT FOCUS</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#03--featured-engineering-work"><strong>03 / WORK</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#04--technical-toolkit"><strong>04 / TOOLKIT</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#05--credentials"><strong>05 / CREDENTIALS</strong></a></td>
+    <td align="center" bgcolor="#11161D"><a href="#06--contact"><strong>06 / CONTACT</strong></a></td>
   </tr>
 </table>
-
-<br>
-
-<a id="about" name="about"></a>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr><td height="6" bgcolor="#2F6BFF"></td></tr>
-</table>
-
-<h2>01 / ABOUT</h2>
-
+---
+01 / ABOUT
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
   <tr>
     <td width="72%" valign="top" bgcolor="#0F141A">
@@ -72,17 +46,9 @@
     </td>
   </tr>
 </table>
-
 <br>
-
-<a id="current-focus" name="current-focus"></a>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr><td height="6" bgcolor="#2F6BFF"></td></tr>
-</table>
-
-<h2>02 / CURRENT FOCUS</h2>
-
+---
+02 / CURRENT FOCUS
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
   <tr>
     <td width="18%" bgcolor="#151B23" valign="top">
@@ -98,18 +64,10 @@
     </td>
   </tr>
 </table>
-
 <br>
-
-<a id="featured-work" name="featured-work"></a>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr><td height="6" bgcolor="#2F6BFF"></td></tr>
-</table>
-
-<h2>03 / FEATURED ENGINEERING WORK</h2>
+---
+03 / FEATURED ENGINEERING WORK
 <p>Selected repositories across software, systems, AI, and interface engineering. Every panel is a direct repository link.</p>
-
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
   <tr>
     <td width="50%" bgcolor="#0F141A" valign="top">
@@ -144,17 +102,9 @@
     </td>
   </tr>
 </table>
-
 <br>
-
-<a id="toolkit" name="toolkit"></a>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr><td height="6" bgcolor="#2F6BFF"></td></tr>
-</table>
-
-<h2>04 / TECHNICAL TOOLKIT</h2>
-
+---
+04 / TECHNICAL TOOLKIT
 <h3>HARDWARE / DIGITAL / VERIFICATION</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -164,7 +114,6 @@
     <td width="25%" bgcolor="#151B23"><a href="https://github.com/MohammedZidanC?tab=repositories&q=simulation"><strong>◫ SIMULATION</strong><br><sub>RELATED REPOSITORIES</sub></a></td>
   </tr>
 </table>
-
 <h3>PROGRAMMING / ENGINEERING TOOLS</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -173,7 +122,6 @@
     <td width="33%" bgcolor="#0F141A"><a href="https://github.com/MohammedZidanC?tab=repositories"><strong>⌁ GIT</strong><br><sub>ENGINEERING WORKFLOW · REPOSITORIES</sub></a></td>
   </tr>
 </table>
-
 <h3>AI / SUPPORTING TOOLS</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -181,17 +129,9 @@
     <td width="50%" bgcolor="#0F141A"><a href="https://github.com/MohammedZidanC/NYX"><strong>● HUGGING FACE</strong><br><sub>RELATED PROJECT · NYX</sub></a></td>
   </tr>
 </table>
-
 <br>
-
-<a id="credentials" name="credentials"></a>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr><td height="6" bgcolor="#2F6BFF"></td></tr>
-</table>
-
-<h2>05 / CREDENTIALS</h2>
-
+---
+05 / CREDENTIALS
 <h3>GOOGLE SKILLS BADGES</h3>
 <p>Verified first-party Google Skills links. The badge artwork is intentionally omitted here to keep the README image-free.</p>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
@@ -204,7 +144,6 @@
     </td>
   </tr>
 </table>
-
 <h3>01 / ENGINEERING &amp; TECHNICAL</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -224,7 +163,6 @@
     <td bgcolor="#0F141A"><a href="certificates/POD%20AI%20Developer%20Tools%20and%20Methodologies.pdf"><strong>POD AI DEVELOPER TOOLS &amp; METHODOLOGIES</strong><br><sub>VIEW CREDENTIAL ↗</sub></a></td>
   </tr>
 </table>
-
 <h3>02 / PROFESSIONAL DEVELOPMENT</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -236,7 +174,6 @@
     <td bgcolor="#0F141A"><a href="certificates/british%20airways%20forage.pdf"><strong>BRITISH AIRWAYS FORAGE JOB SIMULATION</strong><br><sub>VIEW CREDENTIAL ↗</sub></a></td>
   </tr>
 </table>
-
 <h3>03 / MEMBERSHIPS &amp; WORKSHOPS</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -244,7 +181,6 @@
     <td width="50%" bgcolor="#151B23"><a href="certificates/Embedded%20system%20Team%20ARL.jpg"><strong>EMBEDDED SYSTEMS WORKSHOP</strong><br><sub>TEAM ARL / SRMIST · VIEW CREDENTIAL ↗</sub></a></td>
   </tr>
 </table>
-
 <h3>04 / ACHIEVEMENTS &amp; ACTIVITIES</h3>
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
@@ -256,17 +192,9 @@
     <td bgcolor="#151B23"><sub>MORE CREDENTIALS WILL APPEAR HERE AS THE PROFILE GROWS.</sub></td>
   </tr>
 </table>
-
 <br>
-
-<a id="contact" name="contact"></a>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr><td height="6" bgcolor="#2F6BFF"></td></tr>
-</table>
-
-<h2>06 / CONTACT</h2>
-
+---
+06 / CONTACT
 <table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
   <tr>
     <td width="20%" align="center" bgcolor="#0F141A"><a href="https://www.linkedin.com/in/mohammed-zidan-c/"><strong>IN</strong><br><sub>LINKEDIN</sub></a></td>
@@ -276,13 +204,6 @@
     <td width="20%" align="center" bgcolor="#0F141A"><a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/"><strong>FB</strong><br><sub>FACEBOOK</sub></a></td>
   </tr>
 </table>
-
 <br>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td height="3" bgcolor="#2F6BFF"></td>
-  </tr>
-</table>
-
+---
 <p align="center"><sub>VLSI · RTL DESIGN · DIGITAL LOGIC · VERIFICATION · BUILDING WITH INTENT</sub></p>
