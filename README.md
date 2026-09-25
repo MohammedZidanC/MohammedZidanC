@@ -26,7 +26,12 @@
 
 | AUTOMATIC SIGNAL | LATEST ENGINEERING WORK |
 |:---:|:---|
-| **LATEST<br>REPOSITORY** | <!-- LATEST_REPO:START --> **Loading latest repository...**<br><sub>This panel updates automatically from your public GitHub repositories.</sub><!-- LATEST_REPO:END --> |
+| **LATEST<br>REPOSITORY** | <!-- LATEST_REPO:START -->
+<a href="https://github.com/MohammedZidanC/Health_Advisor"><strong>Health_Advisor</strong><br>
+<sub>HTML · CREATED 13 Apr 2026</sub><br><br>
+No repository description has been added yet.<br><br>
+<strong>OPEN REPOSITORY ↗</strong></a>
+<!-- LATEST_REPO:END --> |
 
 <a id="work"></a>
 
