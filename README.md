@@ -1,600 +1,128 @@
 <div align="center">
-  <p><sub>ENGINEERING PROFILE · VLSI / RTL / ASIC VERIFICATION</sub></p>
-  <h1>MOHAMMED ZIDAN C</h1>
-  <p><strong>ASPIRING ASIC VERIFICATION ENGINEER</strong></p>
-  <p><sub>ECE · VLSI · SRMIST</sub></p>
+
+<sub>ENGINEERING PROFILE · VLSI / RTL / ASIC VERIFICATION</sub>
+
+# MOHAMMED ZIDAN C
+
+### ASPIRING ASIC VERIFICATION ENGINEER
+
+<sub>ECE · VLSI · SRMIST</sub>
+
 </div>
 
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center" bgcolor="#11161D"><a href="#about"><strong>01 / ABOUT</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#current-focus"><strong>02 / CURRENT FOCUS</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#work"><strong>03 / WORK</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#toolkit"><strong>04 / TOOLKIT</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#credentials"><strong>05 / CREDENTIALS</strong></a></td>
-    <td align="center" bgcolor="#11161D"><a href="#contact"><strong>06 / CONTACT</strong></a></td>
-  </tr>
-</table>
+[01 / ABOUT](#about) · [02 / CURRENT FOCUS](#current-focus) · [03 / WORK](#work) · [04 / TOOLKIT](#toolkit) · [05 / CREDENTIALS](#credentials) · [06 / CONTACT](#contact)
 
 <a id="about"></a>
+
 ## 01 / ABOUT
 
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
-  <tr>
-    <td width="72%" valign="top" bgcolor="#0F141A">
-      <h3>BUILDING TOWARD SILICON.</h3>
-      <p>
-        I am an Electronics and Communication Engineering student at SRMIST with a focused interest in
-        <strong>VLSI, RTL design, digital logic, and ASIC verification</strong>. I am building hands-on depth in
-        <strong>Verilog, simulation, and hardware-oriented problem solving</strong>, while using Python, AI tools,
-        and software projects as supporting layers for experimentation and engineering work.
-      </p>
-      <p><strong>DESIGN.</strong> &nbsp; <strong>VERIFY.</strong> &nbsp; <strong>REFINE.</strong></p>
-    </td>
-    <td width="28%" valign="top" bgcolor="#151B23">
-      <sub>PRIMARY DIRECTION</sub><br>
-      <strong>VLSI / ASIC VERIFICATION</strong>
-      <br><br>
-      <sub>CORE HDL</sub><br>
-      <strong>VERILOG</strong>
-      <br><br>
-      <sub>ACADEMIC HOME</sub><br>
-      <strong>SRMIST · ECE</strong>
-    </td>
-  </tr>
-</table>
-
-<br>
+| BUILDING TOWARD SILICON. | PRIMARY DIRECTION |
+|:---|:---|
+| I am an Electronics and Communication Engineering student at SRMIST with a focused interest in **VLSI, RTL design, digital logic, and ASIC verification**. I am building hands-on depth in **Verilog, simulation, and hardware-oriented problem solving**, while using Python, AI tools, and software projects as supporting layers for experimentation and engineering work.<br><br>**DESIGN. VERIFY. REFINE.** | **VLSI / ASIC VERIFICATION**<br><br>**CORE HDL**<br>VERILOG<br><br>**ACADEMIC HOME**<br>SRMIST · ECE |
 
 <a id="current-focus"></a>
+
 ## 02 / CURRENT FOCUS
 
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
-  <tr>
-    <td width="18%" bgcolor="#151B23" valign="top">
-      <sub>AUTOMATIC SIGNAL</sub><br>
-      <strong>LATEST<br>REPOSITORY</strong>
-    </td>
-    <td bgcolor="#0F141A" valign="top">
-      <!-- LATEST_REPO:START -->
-      <sub>NEWEST PUBLIC REPOSITORY</sub><br>
-      <h3>Loading latest repository…</h3>
-      <p>This panel is maintained automatically from your public repositories.</p>
-      <!-- LATEST_REPO:END -->
-    </td>
-  </tr>
-</table>
-
-<br>
+| AUTOMATIC SIGNAL | LATEST ENGINEERING WORK |
+|:---:|:---|
+| **LATEST<br>REPOSITORY** | <!-- LATEST_REPO:START --> **Loading latest repository...**<br><sub>This panel updates automatically from your public GitHub repositories.</sub><!-- LATEST_REPO:END --> |
 
 <a id="work"></a>
+
 ## 03 / FEATURED ENGINEERING WORK
 
-<p>Selected repositories across software, systems, AI, and interface engineering. Every panel is a direct repository link.</p>
+Selected repositories across software, systems, AI, and interface engineering.
 
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="14" cellspacing="0">
-  <tr>
-    <td width="50%" bgcolor="#0F141A" valign="top">
-      <a href="https://github.com/MohammedZidanC/Luma">
-        <strong>01 · LUMA</strong><br>
-        <sub>PRIVATE · TYPESCRIPT</sub><br><br>
-        Private photo and file viewer project.
-      </a>
-    </td>
-    <td width="50%" bgcolor="#151B23" valign="top">
-      <a href="https://github.com/MohammedZidanC/Portfolio">
-        <strong>02 · PORTFOLIO</strong><br>
-        <sub>PUBLIC · TYPESCRIPT</sub><br><br>
-        Cinematic personal portfolio with interactive UI work.
-      </a>
-    </td>
-  </tr>
+| 01 · LUMA | 02 · PORTFOLIO |
+|:---|:---|
+| [**LUMA**](https://github.com/MohammedZidanC/Luma)<br><sub>PRIVATE · TYPESCRIPT</sub><br><br>Private photo and file viewer project. | [**PORTFOLIO**](https://github.com/MohammedZidanC/Portfolio)<br><sub>PUBLIC · TYPESCRIPT</sub><br><br>Cinematic personal portfolio with interactive UI work. |
 
-  <tr>
-    <td bgcolor="#151B23" valign="top">
-      <a href="https://github.com/MohammedZidanC/Health_Advisor">
-        <strong>03 · HEALTH_ADVISOR</strong><br>
-        <sub>PUBLIC · HTML</sub><br><br>
-        Health-advisory web project.
-      </a>
-    </td>
-    <td bgcolor="#0F141A" valign="top">
-      <a href="https://github.com/MohammedZidanC/FileSnap">
-        <strong>04 · FILESNAP</strong><br>
-        <sub>PUBLIC · DART</sub><br><br>
-        Image and PDF utility application.
-      </a>
-    </td>
-  </tr>
+| 03 · HEALTH_ADVISOR | 04 · FILESNAP |
+|:---|:---|
+| [**HEALTH_ADVISOR**](https://github.com/MohammedZidanC/Health_Advisor)<br><sub>PUBLIC · HTML</sub><br><br>Health-advisory web project. | [**FILESNAP**](https://github.com/MohammedZidanC/FileSnap)<br><sub>PUBLIC · DART</sub><br><br>Image and PDF utility application. |
 
-  <tr>
-    <td bgcolor="#0F141A" valign="top">
-      <a href="https://github.com/MohammedZidanC/VANTAGE">
-        <strong>05 · VANTAGE</strong><br>
-        <sub>PUBLIC · JAVASCRIPT</sub><br><br>
-        Student-oriented web portal project.
-      </a>
-    </td>
-    <td bgcolor="#151B23" valign="top">
-      <a href="https://github.com/MohammedZidanC/NYX">
-        <strong>06 · NYX</strong><br>
-        <sub>PUBLIC · PYTHON · HUGGING FACE</sub><br><br>
-        Lightweight password-protected chatbot project.
-      </a>
-    </td>
-  </tr>
+| 05 · VANTAGE | 06 · NYX |
+|:---|:---|
+| [**VANTAGE**](https://github.com/MohammedZidanC/VANTAGE)<br><sub>PUBLIC · JAVASCRIPT</sub><br><br>Student-oriented web portal project. | [**NYX**](https://github.com/MohammedZidanC/NYX)<br><sub>PUBLIC · PYTHON · HUGGING FACE</sub><br><br>Lightweight password-protected chatbot project. |
 
-  <tr>
-    <td bgcolor="#151B23" valign="top">
-      <a href="https://github.com/MohammedZidanC/To-Do-List">
-        <strong>07 · TO-DO-LIST</strong><br>
-        <sub>PUBLIC</sub><br><br>
-        Dark themed task-management interface.
-      </a>
-    </td>
-    <td bgcolor="#0F141A" valign="top">
-      <a href="https://github.com/MohammedZidanC?tab=repositories">
-        <strong>
-          <img
-            src="https://cdn.simpleicons.org/github/2F6BFF"
-            alt="GitHub"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          08 · ALL REPOSITORIES
-        </strong>
-        <br>
-        <sub>GITHUB INDEX</sub><br><br>
-        Open the complete repository collection.
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
+| 07 · TO-DO-LIST | 08 · ALL REPOSITORIES |
+|:---|:---|
+| [**TO-DO-LIST**](https://github.com/MohammedZidanC/To-Do-List)<br><sub>PUBLIC</sub><br><br>Dark themed task-management interface. | [**GITHUB INDEX**](https://github.com/MohammedZidanC?tab=repositories)<br><sub>REPOSITORY COLLECTION</sub><br><br>Open the complete repository collection. |
 
 <a id="toolkit"></a>
+
 ## 04 / TECHNICAL TOOLKIT
 
-<h3>HARDWARE / DIGITAL / VERIFICATION</h3>
+### HARDWARE / DIGITAL / VERIFICATION
 
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="25%" bgcolor="#0F141A">
-      <a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf">
-        <strong>
-          <img
-            src="https://api.iconify.design/lucide:cpu.svg?color=%232F6BFF"
-            alt="Verilog"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          VERILOG
-        </strong>
-        <br>
-        <sub>CERTIFIED · MAVEN SILICON</sub>
-      </a>
-    </td>
+| | | | |
+|:---|:---|:---|:---|
+| <img src="https://api.iconify.design/lucide:cpu.svg?color=%232F6BFF" width="18" alt="Verilog"> [**VERILOG**](certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf)<br><sub>CERTIFIED · MAVEN SILICON</sub> | <img src="https://api.iconify.design/lucide:blocks.svg?color=%232F6BFF" width="18" alt="Digital Logic"> [**DIGITAL LOGIC**](certificates/Udemy%20Digital%20Logic%20Design.pdf)<br><sub>CERTIFIED · UDEMY</sub> | <img src="https://api.iconify.design/lucide:microchip.svg?color=%232F6BFF" width="18" alt="RTL Design"> [**RTL DESIGN**](https://github.com/MohammedZidanC?tab=repositories&q=Verilog)<br><sub>RELATED REPOSITORIES</sub> | <img src="https://api.iconify.design/lucide:activity.svg?color=%232F6BFF" width="18" alt="Simulation"> [**SIMULATION**](https://github.com/MohammedZidanC?tab=repositories&q=simulation)<br><sub>RELATED REPOSITORIES</sub> |
 
-    <td width="25%" bgcolor="#151B23">
-      <a href="certificates/Udemy%20Digital%20Logic%20Design.pdf">
-        <strong>
-          <img
-            src="https://api.iconify.design/lucide:blocks.svg?color=%232F6BFF"
-            alt="Digital Logic"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          DIGITAL LOGIC
-        </strong>
-        <br>
-        <sub>CERTIFIED · UDEMY</sub>
-      </a>
-    </td>
+### PROGRAMMING / ENGINEERING TOOLS
 
-    <td width="25%" bgcolor="#0F141A">
-      <a href="https://github.com/MohammedZidanC?tab=repositories&q=Verilog">
-        <strong>
-          <img
-            src="https://api.iconify.design/lucide:microchip.svg?color=%232F6BFF"
-            alt="RTL Design"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          RTL DESIGN
-        </strong>
-        <br>
-        <sub>RELATED REPOSITORIES</sub>
-      </a>
-    </td>
+| | | |
+|:---|:---|:---|
+| <img src="https://cdn.simpleicons.org/python/2F6BFF" width="18" alt="Python"> [**PYTHON**](certificates/udemy%20python.jpg)<br><sub>CERTIFIED · UDEMY</sub> | <img src="https://cdn.simpleicons.org/cplusplus/2F6BFF" width="18" alt="C++"> [**C++**](certificates/cpp%20saylor.pdf)<br><sub>CERTIFIED · SAYLOR ACADEMY</sub> | <img src="https://cdn.simpleicons.org/git/2F6BFF" width="18" alt="Git"> [**GIT**](https://github.com/MohammedZidanC?tab=repositories)<br><sub>ENGINEERING WORKFLOW</sub> |
 
-    <td width="25%" bgcolor="#151B23">
-      <a href="https://github.com/MohammedZidanC?tab=repositories&q=simulation">
-        <strong>
-          <img
-            src="https://api.iconify.design/lucide:activity.svg?color=%232F6BFF"
-            alt="Simulation"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          SIMULATION
-        </strong>
-        <br>
-        <sub>RELATED REPOSITORIES</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+### AI / SUPPORTING TOOLS
 
-<h3>PROGRAMMING / ENGINEERING TOOLS</h3>
-
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="33%" bgcolor="#0F141A">
-      <a href="certificates/udemy%20python.jpg">
-        <strong>
-          <img
-            src="https://cdn.simpleicons.org/python/2F6BFF"
-            alt="Python"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          PYTHON
-        </strong>
-        <br>
-        <sub>CERTIFIED · UDEMY</sub>
-      </a>
-    </td>
-
-    <td width="33%" bgcolor="#151B23">
-      <a href="certificates/cpp%20saylor.pdf">
-        <strong>
-          <img
-            src="https://cdn.simpleicons.org/cplusplus/2F6BFF"
-            alt="C++"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          C++
-        </strong>
-        <br>
-        <sub>CERTIFIED · SAYLOR ACADEMY</sub>
-      </a>
-    </td>
-
-    <td width="33%" bgcolor="#0F141A">
-      <a href="https://github.com/MohammedZidanC?tab=repositories">
-        <strong>
-          <img
-            src="https://cdn.simpleicons.org/git/2F6BFF"
-            alt="Git"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          GIT
-        </strong>
-        <br>
-        <sub>ENGINEERING WORKFLOW · REPOSITORIES</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3>AI / SUPPORTING TOOLS</h3>
-
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="50%" bgcolor="#151B23">
-      <a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf">
-        <strong>
-          <img
-            src="https://api.iconify.design/lucide:brain-circuit.svg?color=%232F6BFF"
-            alt="AI"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          ARTIFICIAL INTELLIGENCE
-        </strong>
-        <br>
-        <sub>CERTIFIED · FREEDOM WITH AI</sub>
-      </a>
-    </td>
-
-    <td width="50%" bgcolor="#0F141A">
-      <a href="https://github.com/MohammedZidanC/NYX">
-        <strong>
-          <img
-            src="https://cdn.simpleicons.org/huggingface/2F6BFF"
-            alt="Hugging Face"
-            height="16"
-            width="16"
-            style="vertical-align:middle"
-          >
-          HUGGING FACE
-        </strong>
-        <br>
-        <sub>RELATED PROJECT · NYX</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
+| | |
+|:---|:---|
+| <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%232F6BFF" width="18" alt="Artificial Intelligence"> [**ARTIFICIAL INTELLIGENCE**](certificates/Freedom%20with%20AI%20-%20Certificate.pdf)<br><sub>CERTIFIED · FREEDOM WITH AI</sub> | <img src="https://cdn.simpleicons.org/huggingface/2F6BFF" width="18" alt="Hugging Face"> [**HUGGING FACE**](https://github.com/MohammedZidanC/NYX)<br><sub>RELATED PROJECT · NYX</sub> |
 
 <a id="credentials"></a>
+
 ## 05 / CREDENTIALS
 
-<h3>GOOGLE SKILLS BADGES</h3>
+### GOOGLE SKILLS BADGES
 
-<p>
-  Verified first-party Google Skills links. The badge artwork is intentionally omitted here to keep the README image-free.
-</p>
+Verified first-party Google Skills credentials.
 
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="50%" bgcolor="#0F141A">
-      <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19232480">
-        <strong>GOOGLE SKILLS · INTRODUCTION TO GENERATIVE AI</strong><br>
-        <sub>COMPLETION BADGE · OPEN CREDENTIAL ↗</sub>
-      </a>
-    </td>
+| INTRODUCTION TO GENERATIVE AI | ENCODER-DECODER ARCHITECTURE |
+|:---|:---|
+| [**GOOGLE SKILLS**](https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19232480)<br><sub>COMPLETION BADGE · OPEN CREDENTIAL ↗</sub> | [**GOOGLE SKILLS**](https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19233619)<br><sub>COMPLETION BADGE · OPEN CREDENTIAL ↗</sub> |
 
-    <td width="50%" bgcolor="#151B23">
-      <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19233619">
-        <strong>GOOGLE SKILLS · ENCODER-DECODER ARCHITECTURE</strong><br>
-        <sub>COMPLETION BADGE · OPEN CREDENTIAL ↗</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+### 01 / ENGINEERING & TECHNICAL
 
-<h3>01 / ENGINEERING &amp; TECHNICAL</h3>
+| | |
+|:---|:---|
+| [**VERILOG HDL · HANDS ON**](certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf)<br><sub>MAVEN SILICON · VIEW CREDENTIAL ↗</sub> | [**DIGITAL LOGIC DESIGN: A COMPLETE GUIDE**](certificates/Udemy%20Digital%20Logic%20Design.pdf)<br><sub>UDEMY · VIEW CREDENTIAL ↗</sub> |
+| [**SIGNAL PROCESSING**](certificates/Udemy%20Signal%20Processing.pdf)<br><sub>UDEMY · VIEW CREDENTIAL ↗</sub> | [**CS107: C++ PROGRAMMING**](certificates/cpp%20saylor.pdf)<br><sub>SAYLOR ACADEMY · VIEW CREDENTIAL ↗</sub> |
+| [**PYTHON FOR BEGINNERS**](certificates/udemy%20python.jpg)<br><sub>UDEMY · VIEW CREDENTIAL ↗</sub> | [**FREEDOM WITH AI MASTERCLASS**](certificates/Freedom%20with%20AI%20-%20Certificate.pdf)<br><sub>FREEDOM WITH AI · VIEW CREDENTIAL ↗</sub> |
+| [**ANTHROPIC CLAUDE CODE 101**](certificates/Anthropic%20Claude%20Code%20101.pdf)<br><sub>VIEW CREDENTIAL ↗</sub> | [**POD AI DEVELOPER TOOLS & METHODOLOGIES**](certificates/POD%20AI%20Developer%20Tools%20and%20Methodologies.pdf)<br><sub>VIEW CREDENTIAL ↗</sub> |
 
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="50%" bgcolor="#0F141A">
-      <a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf">
-        <strong>VERILOG HDL · HANDS ON</strong><br>
-        <sub>MAVEN SILICON · VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
+### 02 / PROFESSIONAL DEVELOPMENT
 
-    <td width="50%" bgcolor="#151B23">
-      <a href="certificates/Udemy%20Digital%20Logic%20Design.pdf">
-        <strong>DIGITAL LOGIC DESIGN: A COMPLETE GUIDE</strong><br>
-        <sub>UDEMY · VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-  </tr>
+| | |
+|:---|:---|
+| [**EMPLOYABILITY SKILLS**](certificates/Employability%20skills.pdf)<br><sub>VIEW CREDENTIAL ↗</sub> | [**EMPLOYABILITY SKILLS MASTERY**](certificates/Udemy%20Employability%20skills%20Mastery.pdf)<br><sub>UDEMY · VIEW CREDENTIAL ↗</sub> |
+| [**JOB READINESS & PROFESSIONAL DEVELOPMENT PROGRAM**](certificates/Job%20Readiness%20%26%20Professional%20Development%20Program.pdf)<br><sub>VIEW CREDENTIAL ↗</sub> | [**BRITISH AIRWAYS FORAGE JOB SIMULATION**](certificates/british%20airways%20forage.pdf)<br><sub>VIEW CREDENTIAL ↗</sub> |
 
-  <tr>
-    <td bgcolor="#151B23">
-      <a href="certificates/Udemy%20Signal%20Processing.pdf">
-        <strong>SIGNAL PROCESSING</strong><br>
-        <sub>UDEMY · VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
+### 03 / MEMBERSHIPS & WORKSHOPS
 
-    <td bgcolor="#0F141A">
-      <a href="certificates/cpp%20saylor.pdf">
-        <strong>CS107: C++ PROGRAMMING</strong><br>
-        <sub>SAYLOR ACADEMY · VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-  </tr>
+| | |
+|:---|:---|
+| [**ISTE MEMBERSHIP**](certificates/ISTE%20Membership.pdf)<br><sub>VIEW CREDENTIAL ↗</sub> | [**EMBEDDED SYSTEMS WORKSHOP**](certificates/Embedded%20system%20Team%20ARL.jpg)<br><sub>TEAM ARL / SRMIST · VIEW CREDENTIAL ↗</sub> |
 
-  <tr>
-    <td bgcolor="#0F141A">
-      <a href="certificates/udemy%20python.jpg">
-        <strong>PYTHON FOR BEGINNERS</strong><br>
-        <sub>UDEMY · VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
+### 04 / ACHIEVEMENTS & ACTIVITIES
 
-    <td bgcolor="#151B23">
-      <a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf">
-        <strong>FREEDOM WITH AI MASTERCLASS</strong><br>
-        <sub>FREEDOM WITH AI · VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td bgcolor="#151B23">
-      <a href="certificates/Anthropic%20Claude%20Code%20101.pdf">
-        <strong>ANTHROPIC CLAUDE CODE 101</strong><br>
-        <sub>VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-
-    <td bgcolor="#0F141A">
-      <a href="certificates/POD%20AI%20Developer%20Tools%20and%20Methodologies.pdf">
-        <strong>POD AI DEVELOPER TOOLS &amp; METHODOLOGIES</strong><br>
-        <sub>VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3>02 / PROFESSIONAL DEVELOPMENT</h3>
-
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="50%" bgcolor="#0F141A">
-      <a href="certificates/Employability%20skills.pdf">
-        <strong>EMPLOYABILITY SKILLS</strong><br>
-        <sub>VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-
-    <td width="50%" bgcolor="#151B23">
-      <a href="certificates/Udemy%20Employability%20skills%20Mastery.pdf">
-        <strong>EMPLOYABILITY SKILLS MASTERY</strong><br>
-        <sub>UDEMY · VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td bgcolor="#151B23">
-      <a href="certificates/Job%20Readiness%20%26%20Professional%20Development%20Program.pdf">
-        <strong>JOB READINESS &amp; PROFESSIONAL DEVELOPMENT PROGRAM</strong><br>
-        <sub>VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-
-    <td bgcolor="#0F141A">
-      <a href="certificates/british%20airways%20forage.pdf">
-        <strong>BRITISH AIRWAYS FORAGE JOB SIMULATION</strong><br>
-        <sub>VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3>03 / MEMBERSHIPS &amp; WORKSHOPS</h3>
-
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="50%" bgcolor="#0F141A">
-      <a href="certificates/ISTE%20Membership.pdf">
-        <strong>ISTE MEMBERSHIP</strong><br>
-        <sub>VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-
-    <td width="50%" bgcolor="#151B23">
-      <a href="certificates/Embedded%20system%20Team%20ARL.jpg">
-        <strong>EMBEDDED SYSTEMS WORKSHOP</strong><br>
-        <sub>TEAM ARL / SRMIST · VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3>04 / ACHIEVEMENTS &amp; ACTIVITIES</h3>
-
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="50%" bgcolor="#151B23">
-      <a href="certificates/Reuse%20and%20Remodel%20Product.jpg">
-        <strong>1ST PRIZE · REUSE AND REMODEL PRODUCT COMPETITION</strong><br>
-        <sub>SRMIST · VIEW EVIDENCE ↗</sub>
-      </a>
-    </td>
-
-    <td width="50%" bgcolor="#0F141A">
-      <a href="certificates/WMO%20Volunteering.jpeg">
-        <strong>WMO VOLUNTEERING</strong><br>
-        <sub>VIEW EVIDENCE ↗</sub>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td bgcolor="#0F141A">
-      <a href="certificates/Sustainable%20development.pdf">
-        <strong>SUSTAINABLE DEVELOPMENT</strong><br>
-        <sub>VIEW CREDENTIAL ↗</sub>
-      </a>
-    </td>
-
-    <td bgcolor="#151B23">
-      <sub>MORE CREDENTIALS WILL APPEAR HERE AS THE PROFILE GROWS.</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
+| | |
+|:---|:---|
+| [**1ST PRIZE · REUSE AND REMODEL PRODUCT COMPETITION**](certificates/Reuse%20and%20Remodel%20Product.jpg)<br><sub>SRMIST · VIEW EVIDENCE ↗</sub> | [**WMO VOLUNTEERING**](certificates/WMO%20Volunteering.jpeg)<br><sub>VIEW EVIDENCE ↗</sub> |
+| [**SUSTAINABLE DEVELOPMENT**](certificates/Sustainable%20development.pdf)<br><sub>VIEW CREDENTIAL ↗</sub> | |
 
 <a id="contact"></a>
+
 ## 06 / CONTACT
 
-<table width="100%" border="1" bordercolor="#313A46" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="20%" align="center" bgcolor="#0F141A">
-      <a href="https://www.linkedin.com/in/mohammed-zidan-c/">
-        <img
-          src="https://api.iconify.design/mdi/linkedin.svg?color=%232F6BFF"
-          alt="LINKEDIN"
-          height="18"
-          width="18"
-          style="vertical-align:middle"
-        >
-        <br>
-        <sub>LINKEDIN</sub>
-      </a>
-    </td>
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/linkedin/2F6BFF" width="20" alt="LinkedIn"><br>[**LINKEDIN**](https://www.linkedin.com/in/mohammed-zidan-c/) | <img src="https://cdn.simpleicons.org/whatsapp/2F6BFF" width="20" alt="WhatsApp"><br>[**WHATSAPP**](https://wa.me/918590919142) | <img src="https://cdn.simpleicons.org/instagram/2F6BFF" width="20" alt="Instagram"><br>[**INSTAGRAM**](https://www.instagram.com/notmohammedzidan/) | <img src="https://cdn.simpleicons.org/threads/2F6BFF" width="20" alt="Threads"><br>[**THREADS**](https://www.threads.net/@notmohammedzidan) | <img src="https://cdn.simpleicons.org/facebook/2F6BFF" width="20" alt="Facebook"><br>[**FACEBOOK**](https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D0%BD/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/) |
 
-    <td width="20%" align="center" bgcolor="#151B23">
-      <a href="https://wa.me/918590919142">
-        <img
-          src="https://cdn.simpleicons.org/whatsapp/2F6BFF"
-          alt="WHATSAPP"
-          height="18"
-          width="18"
-          style="vertical-align:middle"
-        >
-        <br>
-        <sub>WHATSAPP</sub>
-      </a>
-    </td>
+<div align="center">
 
-    <td width="20%" align="center" bgcolor="#0F141A">
-      <a href="https://www.instagram.com/notmohammedzidan/">
-        <img
-          src="https://cdn.simpleicons.org/instagram/2F6BFF"
-          alt="INSTAGRAM"
-          height="18"
-          width="18"
-          style="vertical-align:middle"
-        >
-        <br>
-        <sub>INSTAGRAM</sub>
-      </a>
-    </td>
+<sub>VLSI · RTL DESIGN · DIGITAL LOGIC · VERIFICATION · BUILDING WITH INTENT</sub>
 
-    <td width="20%" align="center" bgcolor="#151B23">
-      <a href="https://www.threads.net/@notmohammedzidan">
-        <img
-          src="https://cdn.simpleicons.org/threads/2F6BFF"
-          alt="THREADS"
-          height="18"
-          width="18"
-          style="vertical-align:middle"
-        >
-        <br>
-        <sub>THREADS</sub>
-      </a>
-    </td>
-
-    <td width="20%" align="center" bgcolor="#0F141A">
-      <a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/">
-        <img
-          src="https://cdn.simpleicons.org/facebook/2F6BFF"
-          alt="FACEBOOK"
-          height="18"
-          width="18"
-          style="vertical-align:middle"
-        >
-        <br>
-        <sub>FACEBOOK</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <sub>VLSI · RTL DESIGN · DIGITAL LOGIC · VERIFICATION · BUILDING WITH INTENT</sub>
-</p>
+</div>
