@@ -11,8 +11,6 @@
   <a href="#technical-toolkit"><img src="./assets/nav-skills.svg" alt="Skills" width="31%" /></a>
   <a href="#credentials"><img src="./assets/nav-credentials.svg" alt="Credentials" width="31%" /></a>
   <a href="#contact"><img src="./assets/nav-contact.svg" alt="Contact" width="31%" /></a>
-  <br><br>
-  <img src="./assets/ambient-motion.gif" alt="Animated ambient engineering signal" width="100%" />
 </div>
 
 <a id="about" name="about"></a>
@@ -51,7 +49,7 @@
     <td bgcolor="#111B2B">
       <table width="100%" border="1" bordercolor="#304663" cellpadding="0" cellspacing="0">
         <tr>
-          <td bgcolor="#16243A" width="20%" valign="top" align="center" cellpadding="14">
+          <td bgcolor="#16243A" width="20%" valign="top" align="center">
             <br><br>
             <strong>LIVE<br>GITHUB<br>SIGNAL</strong>
             <br><br>
@@ -60,13 +58,7 @@
           <td bgcolor="#101827" valign="top">
             <!-- LATEST_REPO:START -->
             <table width="100%" border="0" cellpadding="16" cellspacing="0">
-              <tr>
-                <td>
-                  <sub>LATEST ENGINEERING WORK</sub><br>
-                  <h2>Loading latest repository…</h2>
-                  <p>This panel is maintained automatically from your public repositories.</p>
-                </td>
-              </tr>
+              <tr><td><sub>LATEST ENGINEERING WORK</sub><br><h2>Loading latest repository…</h2><p>This panel is maintained automatically from your public repositories.</p></td></tr>
             </table>
             <!-- LATEST_REPO:END -->
           </td>
@@ -80,165 +72,107 @@
 
 <p align="center"><img src="./assets/section-featured-work.svg" alt="Featured Engineering Work" width="100%" /></p>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="10">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MohammedZidanC/Luma"><img src="./assets/cards/project-luma.svg" alt="Luma project" width="100%" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MohammedZidanC/Portfolio"><img src="./assets/cards/project-portfolio.svg" alt="Portfolio project" width="100%" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/MohammedZidanC/Health_Advisor"><img src="./assets/cards/project-health-advisor.svg" alt="Health Advisor project" width="100%" /></a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/MohammedZidanC/FileSnap"><img src="./assets/cards/project-filesnap.svg" alt="FileSnap project" width="100%" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/MohammedZidanC/VANTAGE"><img src="./assets/cards/project-vantage.svg" alt="VANTAGE project" width="100%" /></a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/MohammedZidanC/NYX"><img src="./assets/cards/project-nyx.svg" alt="NYX project" width="100%" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/MohammedZidanC/To-Do-List"><img src="./assets/cards/project-todo-list.svg" alt="To-Do-List project" width="100%" /></a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/MohammedZidanC?tab=repositories"><img src="./assets/cards/project-all-repos.svg" alt="View all repositories" width="100%" /></a>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <sub>Every project card is a live link to the corresponding repository.</sub>
+  <a href="https://github.com/MohammedZidanC/Luma"><img src="./assets/cards/project-luma.svg" alt="Luma project" width="47%" /></a>
+  <a href="https://github.com/MohammedZidanC/Portfolio"><img src="./assets/cards/project-portfolio.svg" alt="Portfolio project" width="47%" /></a>
+  <br>
+  <a href="https://github.com/MohammedZidanC/Health_Advisor"><img src="./assets/cards/project-health-advisor.svg" alt="Health Advisor project" width="47%" /></a>
+  <a href="https://github.com/MohammedZidanC/FileSnap"><img src="./assets/cards/project-filesnap.svg" alt="FileSnap project" width="47%" /></a>
+  <br>
+  <a href="https://github.com/MohammedZidanC/VANTAGE"><img src="./assets/cards/project-vantage.svg" alt="VANTAGE project" width="47%" /></a>
+  <a href="https://github.com/MohammedZidanC/NYX"><img src="./assets/cards/project-nyx.svg" alt="NYX project" width="47%" /></a>
+  <br>
+  <a href="https://github.com/MohammedZidanC/To-Do-List"><img src="./assets/cards/project-todo-list.svg" alt="To-Do-List project" width="47%" /></a>
+  <a href="https://github.com/MohammedZidanC?tab=repositories"><img src="./assets/cards/project-all-repos.svg" alt="View all repositories" width="47%" /></a>
 </div>
+
+<p align="center"><sub>Each card is the interface; clicking anywhere on it opens the destination.</sub></p>
 
 <a id="technical-toolkit" name="technical-toolkit"></a>
 
 <p align="center"><img src="./assets/section-technical-toolkit.svg" alt="Technical Toolkit" width="100%" /></p>
 
 <p><strong>HARDWARE / DIGITAL / VERIFICATION</strong></p>
-<table width="100%" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td width="25%"><a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><img src="./assets/cards/skill-verilog.svg" alt="Verilog certificate" width="100%" /></a></td>
-    <td width="25%"><a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><img src="./assets/cards/skill-logic.svg" alt="Digital Logic certificate" width="100%" /></a></td>
-    <td width="25%"><a href="https://github.com/MohammedZidanC?tab=repositories&q=Verilog"><img src="./assets/cards/skill-rtl.svg" alt="RTL design related repositories" width="100%" /></a></td>
-    <td width="25%"><a href="https://github.com/MohammedZidanC?tab=repositories&q=simulation"><img src="./assets/cards/skill-sim.svg" alt="Simulation related repositories" width="100%" /></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><img src="./assets/cards/skill-verilog.svg" alt="Verilog certificate" width="23%" /></a>
+  <a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><img src="./assets/cards/skill-logic.svg" alt="Digital Logic certificate" width="23%" /></a>
+  <a href="https://github.com/MohammedZidanC?tab=repositories&q=Verilog"><img src="./assets/cards/skill-rtl.svg" alt="RTL design related repositories" width="23%" /></a>
+  <a href="https://github.com/MohammedZidanC?tab=repositories&q=simulation"><img src="./assets/cards/skill-sim.svg" alt="Simulation related repositories" width="23%" /></a>
+</div>
 
 <p><strong>PROGRAMMING / ENGINEERING TOOLS</strong></p>
-<table width="100%" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td width="33%"><a href="certificates/udemy%20python.jpg"><img src="./assets/cards/skill-python.svg" alt="Python certificate" width="100%" /></a></td>
-    <td width="33%"><a href="certificates/cpp%20saylor.pdf"><img src="./assets/cards/skill-cpp.svg" alt="C++ certificate" width="100%" /></a></td>
-    <td width="33%"><a href="https://github.com/MohammedZidanC?tab=repositories"><img src="./assets/cards/skill-git.svg" alt="Git and repositories" width="100%" /></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="certificates/udemy%20python.jpg"><img src="./assets/cards/skill-python.svg" alt="Python certificate" width="31%" /></a>
+  <a href="certificates/cpp%20saylor.pdf"><img src="./assets/cards/skill-cpp.svg" alt="C++ certificate" width="31%" /></a>
+  <a href="https://github.com/MohammedZidanC?tab=repositories"><img src="./assets/cards/skill-git.svg" alt="Git and repositories" width="31%" /></a>
+</div>
 
 <p><strong>AI / SUPPORTING TOOLS</strong></p>
-<table width="100%" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td width="50%"><a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf"><img src="./assets/cards/skill-ai.svg" alt="Artificial Intelligence certificate" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/MohammedZidanC/NYX"><img src="./assets/cards/skill-hf.svg" alt="Hugging Face related project" width="100%" /></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf"><img src="./assets/cards/skill-ai.svg" alt="Artificial Intelligence certificate" width="47%" /></a>
+  <a href="https://github.com/MohammedZidanC/NYX"><img src="./assets/cards/skill-hf.svg" alt="Hugging Face related project" width="47%" /></a>
+</div>
 
 <a id="credentials" name="credentials"></a>
 
 <p align="center"><img src="./assets/section-credentials.svg" alt="Credentials" width="100%" /></p>
 
 <p><strong>GOOGLE SKILLS BADGES</strong></p>
-<table width="100%" border="1" bordercolor="#304663" cellpadding="12" cellspacing="8">
-  <tr>
-    <td bgcolor="#101827" width="50%" align="center">
-      <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19232480">
-        <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d1d31ada5da1.png" alt="Google Cloud — Introduction to Generative AI completion badge" width="255" />
-      </a>
-      <br><sub>INTRODUCTION TO GENERATIVE AI · VERIFIED</sub>
-    </td>
-    <td bgcolor="#101827" width="50%" align="center">
-      <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19233619">
-        <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f0392406c397.png" alt="Google Cloud — Encoder-Decoder Architecture completion badge" width="255" />
-      </a>
-      <br><sub>ENCODER-DECODER ARCHITECTURE · VERIFIED</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19232480"><img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d1d31ada5da1.png" alt="Google Cloud — Introduction to Generative AI completion badge" width="255" /></a>
+  <a href="https://www.skills.google/public_profiles/7a99097a-b7db-4477-8572-6383dd322757/badges/19233619"><img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f0392406c397.png" alt="Google Cloud — Encoder-Decoder Architecture completion badge" width="255" /></a>
+</div>
 
 <p><strong>01 / ENGINEERING &amp; TECHNICAL</strong></p>
-<table width="100%" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td width="50%"><a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><img src="./assets/cards/credential-verilog.svg" alt="Verilog HDL Hands On" width="100%" /></a></td>
-    <td width="50%"><a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><img src="./assets/cards/credential-logic.svg" alt="Digital Logic Design" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="certificates/Udemy%20Signal%20Processing.pdf"><img src="./assets/cards/credential-signal.svg" alt="Signal Processing" width="100%" /></a></td>
-    <td><a href="certificates/cpp%20saylor.pdf"><img src="./assets/cards/credential-cpp.svg" alt="CS107 C++ Programming" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="certificates/udemy%20python.jpg"><img src="./assets/cards/credential-python.svg" alt="Python for Beginners" width="100%" /></a></td>
-    <td><a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf"><img src="./assets/cards/credential-freedom.svg" alt="Freedom with AI Masterclass" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="certificates/Anthropic%20Claude%20Code%20101.pdf"><img src="./assets/cards/credential-claude.svg" alt="Anthropic Claude Code 101" width="100%" /></a></td>
-    <td><a href="certificates/POD%20AI%20Developer%20Tools%20and%20Methodologies.pdf"><img src="./assets/cards/credential-pod.svg" alt="POD AI Developer Tools and Methodologies" width="100%" /></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="certificates/235197-Verilog%20HDL%20Hands%20On%20Mohammed%20Zidan%20C.pdf"><img src="./assets/cards/credential-verilog.svg" alt="Verilog HDL Hands On" width="47%" /></a>
+  <a href="certificates/Udemy%20Digital%20Logic%20Design.pdf"><img src="./assets/cards/credential-logic.svg" alt="Digital Logic Design" width="47%" /></a>
+  <br>
+  <a href="certificates/Udemy%20Signal%20Processing.pdf"><img src="./assets/cards/credential-signal.svg" alt="Signal Processing" width="47%" /></a>
+  <a href="certificates/cpp%20saylor.pdf"><img src="./assets/cards/credential-cpp.svg" alt="CS107 C++ Programming" width="47%" /></a>
+  <br>
+  <a href="certificates/udemy%20python.jpg"><img src="./assets/cards/credential-python.svg" alt="Python for Beginners" width="47%" /></a>
+  <a href="certificates/Freedom%20with%20AI%20-%20Certificate.pdf"><img src="./assets/cards/credential-freedom.svg" alt="Freedom with AI Masterclass" width="47%" /></a>
+  <br>
+  <a href="certificates/Anthropic%20Claude%20Code%20101.pdf"><img src="./assets/cards/credential-claude.svg" alt="Anthropic Claude Code 101" width="47%" /></a>
+  <a href="certificates/POD%20AI%20Developer%20Tools%20and%20Methodologies.pdf"><img src="./assets/cards/credential-pod.svg" alt="POD AI Developer Tools and Methodologies" width="47%" /></a>
+</div>
 
 <p><strong>02 / PROFESSIONAL DEVELOPMENT</strong></p>
-<table width="100%" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td width="50%"><a href="certificates/Employability%20skills.pdf"><img src="./assets/cards/credential-employability.svg" alt="Employability Skills" width="100%" /></a></td>
-    <td width="50%"><a href="certificates/Udemy%20Employability%20skills%20Mastery.pdf"><img src="./assets/cards/credential-employability-master.svg" alt="Employability Skills Mastery" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="certificates/Job%20Readiness%20%26%20Professional%20Development%20Program.pdf"><img src="./assets/cards/credential-job-readiness.svg" alt="Job Readiness and Professional Development Program" width="100%" /></a></td>
-    <td><a href="certificates/british%20airways%20forage.pdf"><img src="./assets/cards/credential-british.svg" alt="British Airways Forage Job Simulation" width="100%" /></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="certificates/Employability%20skills.pdf"><img src="./assets/cards/credential-employability.svg" alt="Employability Skills" width="47%" /></a>
+  <a href="certificates/Udemy%20Employability%20skills%20Mastery.pdf"><img src="./assets/cards/credential-employability-master.svg" alt="Employability Skills Mastery" width="47%" /></a>
+  <br>
+  <a href="certificates/Job%20Readiness%20%26%20Professional%20Development%20Program.pdf"><img src="./assets/cards/credential-job-readiness.svg" alt="Job Readiness and Professional Development Program" width="47%" /></a>
+  <a href="certificates/british%20airways%20forage.pdf"><img src="./assets/cards/credential-british.svg" alt="British Airways Forage Job Simulation" width="47%" /></a>
+</div>
 
 <p><strong>03 / MEMBERSHIPS &amp; WORKSHOPS</strong></p>
-<table width="100%" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td width="50%"><a href="certificates/ISTE%20Membership.pdf"><img src="./assets/cards/credential-iste.svg" alt="ISTE Membership" width="100%" /></a></td>
-    <td width="50%"><a href="certificates/Embedded%20system%20Team%20ARL.jpg"><img src="./assets/cards/credential-embedded.svg" alt="Embedded Systems Workshop" width="100%" /></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="certificates/ISTE%20Membership.pdf"><img src="./assets/cards/credential-iste.svg" alt="ISTE Membership" width="47%" /></a>
+  <a href="certificates/Embedded%20system%20Team%20ARL.jpg"><img src="./assets/cards/credential-embedded.svg" alt="Embedded Systems Workshop" width="47%" /></a>
+</div>
 
 <p><strong>04 / ACHIEVEMENTS &amp; ACTIVITIES</strong></p>
-<table width="100%" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td width="50%"><a href="certificates/Reuse%20and%20Remodel%20Product.jpg"><img src="./assets/cards/credential-reuse.svg" alt="Reuse and Remodel Product Competition" width="100%" /></a></td>
-    <td width="50%"><a href="certificates/WMO%20Volunteering.jpeg"><img src="./assets/cards/credential-wmo.svg" alt="WMO Volunteering" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="certificates/Sustainable%20development.pdf"><img src="./assets/cards/credential-sustainable.svg" alt="Sustainable Development" width="100%" /></a></td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="certificates/Reuse%20and%20Remodel%20Product.jpg"><img src="./assets/cards/credential-reuse.svg" alt="Reuse and Remodel Product Competition" width="47%" /></a>
+  <a href="certificates/WMO%20Volunteering.jpeg"><img src="./assets/cards/credential-wmo.svg" alt="WMO Volunteering" width="47%" /></a>
+  <br>
+  <a href="certificates/Sustainable%20development.pdf"><img src="./assets/cards/credential-sustainable.svg" alt="Sustainable Development" width="47%" /></a>
+</div>
 
 <a id="contact" name="contact"></a>
 
 <p align="center"><img src="./assets/section-contact.svg" alt="Contact" width="100%" /></p>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td width="20%"><a href="https://www.linkedin.com/in/mohammed-zidan-c/"><img src="./assets/icons/contact-linkedin.svg" alt="LinkedIn" width="100%" /></a></td>
-    <td width="20%"><a href="https://wa.me/918590919142"><img src="./assets/icons/contact-whatsapp.svg" alt="WhatsApp" width="100%" /></a></td>
-    <td width="20%"><a href="https://www.instagram.com/notmohammedzidan/"><img src="./assets/icons/contact-instagram.svg" alt="Instagram" width="100%" /></a></td>
-    <td width="20%"><a href="https://www.threads.net/@notmohammedzidan"><img src="./assets/icons/contact-threads.svg" alt="Threads" width="100%" /></a></td>
-    <td width="20%"><a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/"><img src="./assets/icons/contact-facebook.svg" alt="Facebook" width="100%" /></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammed-zidan-c/"><img src="./assets/icons/contact-linkedin.svg" alt="LinkedIn" width="19%" /></a>
+  <a href="https://wa.me/918590919142"><img src="./assets/icons/contact-whatsapp.svg" alt="WhatsApp" width="19%" /></a>
+  <a href="https://www.instagram.com/notmohammedzidan/"><img src="./assets/icons/contact-instagram.svg" alt="Instagram" width="19%" /></a>
+  <a href="https://www.threads.net/@notmohammedzidan"><img src="./assets/icons/contact-threads.svg" alt="Threads" width="19%" /></a>
+  <a href="https://www.facebook.com/people/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86/pfbid02v64aWcXWmXY3TncgtJKsFGEmUnr1Y2n1FieF78Eczix446Y6TXDN6ak97XS6t9o3l/"><img src="./assets/icons/contact-facebook.svg" alt="Facebook" width="19%" /></a>
+</div>
 
 <div align="center">
-  <img src="./assets/ambient-motion.gif" alt="Animated ambient engineering signal" width="100%" />
-  <p><sub>VLSI · RTL DESIGN · DIGITAL LOGIC · VERIFICATION · BUILDING WITH INTENT</sub></p>
+  <sub>VLSI · RTL DESIGN · DIGITAL LOGIC · VERIFICATION · BUILDING WITH INTENT</sub>
 </div>
